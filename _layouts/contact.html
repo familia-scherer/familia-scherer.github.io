@@ -1,0 +1,43 @@
+---
+title: Contact
+layout: default
+bodyClass: page-contact
+permalink: contact
+---
+
+<div class="container pb-6 pt-6 pt-md-10 pb-md-10">
+    <div class="row justify-content-start">
+        <div class="col-12 col-md-8">
+            <div class="service service-single">
+                <h1 class="title">{{page.title}}</h1>
+                <div class="content mt-4">{{content}}</div>
+                {% include call.html show_button=false %} </br>
+            </div>
+            <form  action="https://getform.io/f/bfcf71a6-c046-4fe8-af26-b52a425fc622" method="POST" enctype="multipart/form-data">
+                <ul class="form-style-1">
+                    <li>
+                        <label for="name">Nome: </label>
+                        <input type="text" name="name" id="name" class="field-long">
+                    </li>
+                    <li>
+                        <label for="email">Email: </label>
+                        <input type="email" name="email" id="email" class="field-long">
+                    </li>
+                    <li>
+                        <label>Mensagem:</label>
+                        <textarea type="text" name="message" id="messege" class="field-long field-textarea"></textarea>
+                        <!-- <textarea name="field5" id="field5" class="field-long field-textarea"></textarea> -->
+                    </li>
+                    <li>
+                        <label for="file">Arquivo: </label>
+                        <input type="file" name="file" id="file" class="field-long">
+                    </li>
+
+                    <li>
+                        <input type="submit" value="Enviar" />
+                    </li>
+                </ul>
+                </form>
+        </div>
+    </div>
+</div>
