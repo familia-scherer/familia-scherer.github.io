@@ -2,6 +2,9 @@
 title: Contato
 layout: contact
 bodyClass: page-contact
+weight: 3
+permalink: contato
+featured: true
 ---
 
 Você é antepassado de Johannes Scherer? Este site está em constante atualização e precisa da sua ajuda para crescer!
