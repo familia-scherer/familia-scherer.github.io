@@ -2,7 +2,7 @@
 title: Contato
 layout: contact
 bodyClass: page-contact
-weight: 3
+weight: 4
 permalink: contato
 featured: true
 ---

@@ -9,20 +9,23 @@ main:
   #   url: '/about/'
   #   weight: 4
 
+  - name: 'Início'
+    url: '/'
+    weight: 1
   - name: 'Pessoas'
     url: '/pessoas/'
-    weight: 1
+    weight: 2
   - name: 'Lugares'
     url: '/lugares/'
-    weight: 2
-  - name: 'Contato'
-    url: '/contact/'
     weight: 3
+  - name: 'Contato'
+    url: '/contato/'
+    weight: 4
 
 footer:
   - name: 'Início'
     url: '/'
     weight: 1
   - name: 'Contato'
-    url: '/contact/'
+    url: '/contato/'
     weight: 2
