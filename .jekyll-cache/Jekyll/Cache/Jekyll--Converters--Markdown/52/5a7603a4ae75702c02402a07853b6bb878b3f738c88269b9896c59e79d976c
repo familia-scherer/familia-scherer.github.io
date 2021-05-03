@@ -1,5 +1,5 @@
-I"�<p><strong>Sobrenome de Solteira:</strong>  Alemanha<br /></p>
+I"�<p><strong>Sobrenome de Solteira:</strong>  Alemanha<br /></p>
 
-<p>Mãe de <a href="{% link _pessoas/SchererJohannes.md %}">Johannes Scherer (1769-1850)</a></p>
+<p>Mãe de <a href="{% link _pessoas/SchererJohannes1769.md %}">Johannes Scherer (1769-1850)</a></p>
 
 :ET

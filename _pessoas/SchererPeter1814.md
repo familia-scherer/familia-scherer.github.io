@@ -5,5 +5,7 @@ nome: Peter Scherer
 layout: pessoa
 ---
 
-Filho de [Johannes Scherer (1769-1850)]({% link _pessoas/SchererJohannes.md %}).
+## Vida:
+
+Filho de [Johannes Scherer (1769-1850)]({% link _pessoas/SchererJohannes1769.md %}).
 

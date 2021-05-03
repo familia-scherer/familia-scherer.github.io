@@ -1,0 +1,14 @@
+I"v<p><strong>Nascimento:</strong> 1811, <a href="{% link _lugares/Schmidthachenbach.md %}">Schmidthachenbach, Birkenfeld, Rheinland-Pfalz, Alemanha</a> [1]<br />
+<strong>Nome Alternativo</strong>: Conrado<br />
+<strong>Pais:</strong> <a href="{% link _pessoas/SchererJohannes1769.md %}">Johannes Scherer (1769-1850)</a> e <a href="{% link _pessoas/JacobyMariaCristinaElisabeta1786.md %}">Maria Cristina Elisabeta Jacoby</a><br />
+<strong>Casamento:</strong> <a href="{% link _pessoas/UnderConstruction.md %}">Elisabeth Grub</a>, 19 de maio de 1831 [1]<br /></p>
+
+<h2 id="vida">Vida:</h2>
+
+<p>Filho de <a href="{% link _pessoas/SchererJohannes1769.md %}">Johannes Scherer (1769-1850)</a> e <a href="{% link _pessoas/JacobyMariaCristinaElisabeta1786.md %}">Maria Cristina Elisabeta Jacoby</a>. Veio ao Brasil junto com sua familia (ver mais em <a href="{% link _services/imigracao.md %}">Imigração</a>).
+Se casou com Elisabeth Grub em 19 de maio de 1831, com quem teve pelo menos 2 filhos [1].</p>
+
+<h2 id="referências">Referências:</h2>
+
+<p>[1] ROSA, Gilson Justino da. Imigrantes Alemães: 1824-1853. Porto Alegre: Est Edições, 2005.</p>
+:ET

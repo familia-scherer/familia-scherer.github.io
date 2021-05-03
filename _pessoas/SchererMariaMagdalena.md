@@ -8,8 +8,9 @@ layout: pessoa
 
 **Sobrenome de Solteira:**  Alemanha<br/>
 
+## Vida:
 
-Mãe de [Johannes Scherer (1769-1850)]({% link _pessoas/SchererJohannes.md %})
+Mãe de [Johannes Scherer (1769-1850)]({% link _pessoas/SchererJohannes1769.md %})
 
 
 

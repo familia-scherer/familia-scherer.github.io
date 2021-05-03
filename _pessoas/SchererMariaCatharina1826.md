@@ -5,5 +5,5 @@ nome: Maria Catharina Scherer
 layout: pessoa
 ---
 
-Filha de [Johannes Scherer (1769-1850)]({% link _pessoas/SchererJohannes.md %}).
+Filha de [Johannes Scherer (1769-1850)]({% link _pessoas/SchererJohannes1769.md %}).
 

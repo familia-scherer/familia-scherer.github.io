@@ -11,11 +11,11 @@ weight: 1
 
 # Lista Numerada
 
-Lista de descendentes e antepassados de [Johannes Scherer (1769-1850)]({% link _pessoas/SchererJohannes.md %}) numerada. A lista contém apenas o nome de pessoas identificadas por mim, caso encontre alguém faltando, [entre em contato]({% link _services/contact.md %})
+Lista de descendentes e antepassados de [Johannes Scherer (1769-1850)]({% link _pessoas/SchererJohannes1769.md %}) numerada. A lista contém apenas o nome de pessoas identificadas por mim, caso encontre alguém faltando, [entre em contato]({% link _services/contact.md %})
 
 
 <p markdown="1" style="margin-left: 0em">1. [SCHERER, Conradt]({% link _pessoas/SchererConradt.md %}) c.c. [SCHERER, Maria Magdalena]({% link _pessoas/SchererMariaMagdalena.md %})</p>
-<p markdown="1" style="margin-left: 1.0em;">2-1. [SCHERER, Johannes]({% link _pessoas/SchererJohannes.md %}) 1º casamento com Desconhecido</p>
+<p markdown="1" style="margin-left: 1.0em;">2-1. [SCHERER, Johannes]({% link _pessoas/SchererJohannes1769.md %}) 1º casamento com Desconhecido</p>
 <p markdown="1" style="margin-left: 2.0em">3-1. [SCHERER, Johann Jacob]({% link _pessoas/SchererJohannJacob1805.md %}) c.c. GRUB, Catharina</p>
 <p markdown="1" style="margin-left: 3.0em">4-1. SCHERER, Pedro c.c. SCHNEIDER, Elisabetha</p>
 <p markdown="1" style="margin-left: 4.0em">5-1. SCHERER, Frederico Jacob Theobaldo<br>c.c. SCHERER, Idalina Renaldina</p>
@@ -124,7 +124,7 @@ Lista de descendentes e antepassados de [Johannes Scherer (1769-1850)]({% link _
 <p markdown="1" style="margin-left: 3.0em">4-9. SCHERER, Helene</p>
 <p markdown="1" style="margin-left: 3.0em">4-10. SCHERER, Christian</p>
 
-<p markdown="1" style="margin-left: 1.0em">2-1. [SCHERER, Johannes]({% link _pessoas/SchererJohannes.md %}) 2º casamento com [JACOBI, Maria Cristina Elisabeta]({% link _pessoas/JacobyMariaCristinaElisabeta.md %}) </p>
+<p markdown="1" style="margin-left: 1.0em">2-1. [SCHERER, Johannes]({% link _pessoas/SchererJohannes1769.md %}) 2º casamento com [JACOBY, Maria Cristina Elisabeta]({% link _pessoas/JacobyMariaCristinaElisabeta1786.md %}) </p>
 <p markdown="1" style="margin-left: 2.0em">3-2. [SCHERER, Conrad]({% link _pessoas/SchererConrad1811.md %}) c.c. GRUB, Elisabeth</p>
 <p markdown="1" style="margin-left: 2.0em">3-3. [SCHERER, Johannes]({% link _pessoas/SchererJohannes1813.md %}) c.c. GERMANI, Maria Magdalene</p>
 <p markdown="1" style="margin-left: 2.0em">3-4. [SCHERER, Peter]({% link _pessoas/SchererPeter1814.md %}) c.c. SCHERER, Maria Sophia</p>

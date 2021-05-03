@@ -7,7 +7,7 @@ intro_image_hide_on_mobile: false
 permalink: imigracao
 weight: 3
 data: "29/04/2021"
-summary: "Johannes veio ao Brasil junto com a sua família. Mais precisamente, vieram ao Brasil: <a href='/pessoas/SchererJohannes/'>Johannes Scherer</a>, sua segunda esposa <a href='/pessoas/JacobyMariaCristinaElisabeta/'>Maria Cristina Elisabeta Jacobi</a> e os filhos: <a href='/pessoas/SchererJohannJacob1805/'>Johann Jacob Scherer</a> (filho do primeiro matrimônio), <a href='/pessoas/SchererConrad1811/'>Conrad Scherer</a> (filho do segundo matrimônio), <a href='/pessoas/SchererJohannes1813/'>Johannes Scherer</a>, <a href='/pessoas/SchererPeter1814/'>Peter Scherer</a> e <a href='/pessoas/SchererPhilipp1823/'>Philipp Scherer</a> .</br></br>
+summary: "Johannes veio ao Brasil junto com a sua família. Mais precisamente, vieram ao Brasil: <a href='/pessoas/SchererJohannes1769/'>Johannes Scherer</a>, sua segunda esposa <a href='/pessoas/JacobyMariaCristinaElisabeta1786/'>Maria Cristina Elisabeta Jacoby</a> e os filhos: <a href='/pessoas/SchererJohannJacob1805/'>Johann Jacob Scherer</a> (filho do primeiro matrimônio), <a href='/pessoas/SchererConrad1811/'>Conrad Scherer</a> (filho do segundo matrimônio), <a href='/pessoas/SchererJohannes1813/'>Johannes Scherer</a>, <a href='/pessoas/SchererPeter1814/'>Peter Scherer</a> e <a href='/pessoas/SchererPhilipp1823/'>Philipp Scherer</a> .</br></br>
 A família embarcou no navio transatlântico <i>Friedrich Heinrich</i> no dia 25 de Agosto de 1825, em Amsterdam, e desembarcou no porto do Rio de Janeiro em  8 de novembro de 1825. Lá permaneceram até dia 03 de dezembro de 1825, quando embarcaram no bragantim-escuna <i>Galvão</i> que chegou em São Leopoldo no dia 29 de dezembro de 1825.</br></br>
 Abaixo, conto sobre a história e curiosidades destes dois barcos além de apresentar as listas de passageiros onde a família aparece."
 ---
@@ -36,7 +36,7 @@ A lista de passageiros [3] também menciona que os colonos vieram sem intervenç
 
 Antes de embarcarem para o Rio Grande do Sul no dia 03 de dezembro de 1825, os imigrantes do *Friedrich Heinrich* assistiram as festividades  realizadas para comemorar o nascimento de Dom Pedro II no dia 2 de dezembro de 1825, no Rio de Janeiro. Sobre este momento [1] conta: ”por motivo de tão jubiloso evento, troaram 21 tiros de canhão e espocaram milhares de foguetes, ao repicar de todos os sinos do Rio de Janeiro, os imigrantes, ainda não a par do acontecimento, se assustaram pensando haver rebentado uma revolução...”
 
-Entre os passageiros do *Friedrich Heinrich*, encontravam-se Johannes Scherer e sua família. Mais precisamente: Johannes Scherer, sua segunda esposa Maria Cristina Elisabeta Jacobi e os filhos: Johann Jacob Scherer, Conrad Scherer, Johannes Scherer, Peter Scherer e Philipp Scherer. Parte da lista onde aparecem pode ser vista na figura abaixo, vale lembrar que muitos nomes foram aportuguesados em documentos antigos, e muitos apresentavam erros ortográficos.
+Entre os passageiros do *Friedrich Heinrich*, encontravam-se Johannes Scherer e sua família. Mais precisamente: Johannes Scherer, sua segunda esposa Maria Cristina Elisabeta Jacoby e os filhos: Johann Jacob Scherer, Conrad Scherer, Johannes Scherer, Peter Scherer e Philipp Scherer. Parte da lista onde aparecem pode ser vista na figura abaixo, vale lembrar que muitos nomes foram aportuguesados em documentos antigos, e muitos apresentavam erros ortográficos.
 
 
 <figure>
@@ -47,8 +47,8 @@ Entre os passageiros do *Friedrich Heinrich*, encontravam-se Johannes Scherer e 
 A família Scherer, com 7 integrantes, foi a sexta a ser adicionada à lista. Nela constam:
 
 <div class="summary" markdown="1">
-1)  João Scherer ([Johannes Scherer]({% link _pessoas/SchererJohannes.md %})), com 55 anos, casado, lavrador e vindo de Saxe Coburg.<br>
-2)  Maria Christina ([Maria Cristina Elisabeta Jacobi]({% link _pessoas/JacobyMariaCristinaElisabeta.md %})), sua segunda mulher com 41 anos.<br>
+1)  João Scherer ([Johannes Scherer]({% link _pessoas/SchererJohannes1769.md %})), com 55 anos, casado, lavrador e vindo de Saxe Coburg.<br>
+2)  Maria Christina ([Maria Cristina Elisabeta Jacoby]({% link _pessoas/JacobyMariaCristinaElisabeta1786.md %})), sua segunda mulher com 41 anos.<br>
 3)  Jacob ([Johann Jacob Scherer]({% link _pessoas/SchererJohannJacob1805.md %})), filho do chefe no seu primeiro matrimônio, com 20 anos, solteiro e lavrador.<br>
 4)  Conrado ([Conrad Scherer]({% link _pessoas/SchererConrad1811.md %})), filho do chefe e da sua atual mulher, com 16 anos.<br>
 5)  João ([Johannes Scherer]({% link _pessoas/SchererJohannes1813.md %})), com 10 anos.<br>
@@ -85,8 +85,8 @@ Infelizmente, o registro da família de Johannes na lista de passageiros está r
 
 A família de Johannes é a 6ª família registrada na lista, e seus integrantes estão numerados de 23 a 29, apesar de rasurada, podemos identificar os nomes, segue a transcrição:
 <div class="summary" markdown="1">
-23 João Scherer, casado ([Johannes Scherer]({% link _pessoas/SchererJohannes.md %}))<br>
-24 Maria Christina, sua 2ª esposa ([Maria Cristina Elisabeta Jacobi]({% link _pessoas/JacobyMariaCristinaElisabeta.md %}))<br>
+23 João Scherer, casado ([Johannes Scherer]({% link _pessoas/SchererJohannes1769.md %}))<br>
+24 Maria Christina, sua 2ª esposa ([Maria Cristina Elisabeta Jacoby]({% link _pessoas/JacobyMariaCristinaElisabeta1786.md %}))<br>
 25 Jacob, enteado da 2ª ([Johann Jacob Scherer]({% link _pessoas/SchererJohannJacob1805.md %}))<br>
 26 Conrado, filho do chefe de família e da sua atual mulher ([Conrad Scherer]({% link _pessoas/SchererConrad1811.md %}))<br>
 27 João ([Johannes Scherer]({% link _pessoas/SchererJohannes1813.md %}))<br>
@@ -104,8 +104,8 @@ Todos os imigrantes deste período que chegaram a São Leopoldo, eram registrado
 
 A lista apresenta dois índices, sendo o primeiro o número referente ao índice de entrada no dia 29 de dezembro de 1925 e o outro é o global de colonos que entraram desde 25 de julho de 1824. Segue a transcrição desta lista:
 <div class="summary" markdown="1">
-192 - 601 João Scherer ([Johannes Scherer]({% link _pessoas/SchererJohannes.md %}))<br>
-193 - 602 Maria Elisabeth ([Maria Cristina Elisabeta Jacobi]({% link _pessoas/JacobyMariaCristinaElisabeta.md %}))<br>
+192 - 601 João Scherer ([Johannes Scherer]({% link _pessoas/SchererJohannes1769.md %}))<br>
+193 - 602 Maria Elisabeth ([Maria Cristina Elisabeta Jacoby]({% link _pessoas/JacobyMariaCristinaElisabeta1786.md %}))<br>
 194 - 603 Jacob ([Johann Jacob Scherer]({% link _pessoas/SchererJohannJacob1805.md %}))<br>
 195 - 604 Conrad ([Conrad Scherer]({% link _pessoas/SchererConrad1811.md %}))<br>
 196 - 605 João ([Johannes Scherer]({% link _pessoas/SchererJohannes1813.md %}))<br>
