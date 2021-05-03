@@ -13,13 +13,13 @@ main:
     url: '/'
     weight: 1
   - name: 'Pessoas'
-    url: '/pessoas/'
+    url: '/pessoas'
     weight: 2
   - name: 'Lugares'
-    url: '/lugares/'
+    url: '/lugares'
     weight: 3
   - name: 'Contato'
-    url: '/contato/'
+    url: '/contato'
     weight: 4
 
 footer:
@@ -27,5 +27,5 @@ footer:
     url: '/'
     weight: 1
   - name: 'Contato'
-    url: '/contato/'
+    url: '/contato'
     weight: 2
