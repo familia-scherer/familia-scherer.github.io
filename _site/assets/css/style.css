@@ -1019,6 +1019,8 @@ ul li, ol li { padding: 0; margin: 0; }
 
 .center-two-images { display: flex; height: 300px; justify-content: space-between; width: 50%; }
 
+.quote { border-left: 2px #ea524d solid; margin: 1em; padding: 0 1em; }
+
 .contact-form { color: red; }
 
 .form-style-1 { background-color: #f5f5f5; border-radius: 4px; width: 100%; padding: 1px 20px; }

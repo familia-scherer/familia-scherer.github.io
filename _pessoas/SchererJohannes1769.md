@@ -1,11 +1,11 @@
 ---
 title: "Johannes Scherer (1769-1850)"
-data: 29/04/2021
+data: 03/05/2021
 nome: Johannes Scherer
 layout: pessoa
 ---
 
-**Nascimento:**  27 de setembro de 1769, Schmidthachenbach, Birkenfeld, Rheinland-Pfalz, Alemanha [1][2]<br/>
+**Nascimento:**  27 de setembro de 1769, [Schmidthachenbach, Birkenfeld, Rheinland-Pfalz, Alemanha]({% link _lugares/Schmidthachenbach.md %}) [1][2]<br/>
 **Batismo:** 01 de outubro de 1769 [1]<br/>
 **Morte:** 11 de abril de 1850, Estância Velha, Rio Grande do Sul, Brasil [2]<br/>
 **Nomes Alternativos:** João Scherer<br/>
@@ -17,7 +17,7 @@ layout: pessoa
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. [Conrad Scherer (1811-?)]({% link _pessoas/SchererConrad1811.md %})<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3. [Johannes Scherer (1813-?)]({% link _pessoas/SchererJohannes1813.md %})<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4. [Peter Scherer (1814-?)]({% link _pessoas/SchererPeter1814.md %})<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5. [Philipp Scherer (I0034)]({% link _pessoas/SchererPhilipp1823.md %})<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5. [Philipp Scherer (1823-?)]({% link _pessoas/SchererPhilipp1823.md %})<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;6. [Maria Catharina Scherer (1826-?)]({% link _pessoas/SchererMariaCatharina1826.md %})<br/>
 **Profissão:** Agricultor/Lavrador<br/>
 **Religião:** Evangelico<br/>

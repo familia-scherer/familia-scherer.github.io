@@ -1,4 +1,4 @@
-I"b<p><strong>Nascimento:</strong>  27 de setembro de 1769, Schmidthachenbach, Birkenfeld, Rheinland-Pfalz, Alemanha [1][2]<br />
+I"�<p><strong>Nascimento:</strong>  27 de setembro de 1769, <a href="{% link _lugares/Schmidthachenbach.md %}">Schmidthachenbach, Birkenfeld, Rheinland-Pfalz, Alemanha</a> [1][2]<br />
 <strong>Batismo:</strong> 01 de outubro de 1769 [1]<br />
 <strong>Morte:</strong> 11 de abril de 1850, Estância Velha, Rio Grande do Sul, Brasil [2]<br />
 <strong>Nomes Alternativos:</strong> João Scherer<br />
@@ -10,7 +10,7 @@
       2. <a href="{% link _pessoas/SchererConrad1811.md %}">Conrad Scherer (1811-?)</a><br />
       3. <a href="{% link _pessoas/SchererJohannes1813.md %}">Johannes Scherer (1813-?)</a><br />
       4. <a href="{% link _pessoas/SchererPeter1814.md %}">Peter Scherer (1814-?)</a><br />
-      5. <a href="{% link _pessoas/SchererPhilipp1823.md %}">Philipp Scherer (I0034)</a><br />
+      5. <a href="{% link _pessoas/SchererPhilipp1823.md %}">Philipp Scherer (1823-?)</a><br />
       6. <a href="{% link _pessoas/SchererMariaCatharina1826.md %}">Maria Catharina Scherer (1826-?)</a><br />
 <strong>Profissão:</strong> Agricultor/Lavrador<br />
 <strong>Religião:</strong> Evangelico<br /></p>
