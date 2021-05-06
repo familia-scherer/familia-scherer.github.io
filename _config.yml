@@ -1,16 +1,21 @@
 baseurl: '/'
 permalink: pretty
+
 title: 'Família Scherer'
+tagline: 'Um pouco da história dos descendentes e antepassados de Johannes Scherer'
+description: 'Um pouco da história dos descendentes e antepassados de Johannes Scherer (1769-1850), que veio para o Brasil em 1825 com seus filhos e esposa.'
+url: 'https://familia-scherer.github.io'
+author: 'Lyssa Scherer'
 
 google_analytics_id: ''
 
 homepage:
   show_call_box: true
 
-logo:
-  mobile: 'images/logo/logo-mobile.svg'
-  desktop: 'images/logo/logo.svg'
-  desktop_height: '36px'
+# logo:
+#   mobile: 'images/logo/logo-mobile.svg'
+#   desktop: 'images/logo/logo.svg'
+#   desktop_height: '36px'
 
 footer:
   copyright_text: 'Free Jekyll theme by <a class="zerostatic" href="https://www.zerostatic.io">www.zerostatic.io</a>'
@@ -42,6 +47,7 @@ sass:
 
 plugins:
   - jekyll-environment-variables
+  - jekyll-seo-tag
 
 exclude:
   - Gemfile

@@ -7,7 +7,7 @@
   <link rel="icon" type="image/png" href="{{ '/images/favicon-32x32.svg' | relative_url }}">
   <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;700&display=swap" rel="stylesheet">
   <link href="{{ '/assets/css/style.css' | relative_url }}" rel="stylesheet">
-  {% if page.description %}
+  <!-- {% if page.description %}
   <meta name="description" content="{{ page.description }}" />
   {% endif %}
   <meta property="og:title" content="{{ site.seo.meta_og_title }}" />
@@ -17,7 +17,8 @@
   <meta property="og:description" content="{{ site.seo.meta_og_description }}" />
   <meta name="twitter:card" content="{{ site.seo.meta_twitter_card }}" />
   <meta name="twitter:site" content="{{ site.seo.meta_twitter_site }}" />
-  <meta name="twitter:creator" content="{{ site.seo.meta_twitter_creator }}" />
+  <meta name="twitter:creator" content="{{ site.seo.meta_twitter_creator }}" /> -->
+  {% seo %}
 </head>
 <body class='page {{page.bodyClass}}'>
   {% include main-menu-mobile.html %}
@@ -30,4 +31,5 @@
   <script type="text/javascript" src="{{ "/assets/js/scripts.js" | relative_url }}"></script>
   {% include google-analytics.html %}
 </body>
+
 </html>
