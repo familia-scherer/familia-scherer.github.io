@@ -1,4 +1,4 @@
-baseurl: '/'
+baseurl: ''
 permalink: pretty
 
 title: 'Família Scherer'
@@ -6,6 +6,7 @@ tagline: 'Um pouco da história dos descendentes e antepassados de Johannes Sche
 description: 'Um pouco da história dos descendentes e antepassados de Johannes Scherer (1769-1850), que veio para o Brasil em 1825 com seus filhos e esposa.'
 url: 'https://familia-scherer.github.io'
 author: 'Lyssa Scherer'
+locale: pt_BR
 
 google_analytics_id: ''
 

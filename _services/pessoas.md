@@ -1,11 +1,13 @@
 ---
 title: Pessoas
+description: Lista de todos os descentetes e antepassados de Johannes Scherer já descritos no site.
 layout: pessoas
 intro_image: "images/illustrations/reading.svg"
 intro_image_absolute: true
 intro_image_hide_on_mobile: false
 permalink: pessoas
 weight: 1
+featured: true
 ---
 
 # Lista

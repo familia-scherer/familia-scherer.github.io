@@ -1,11 +1,13 @@
 ---
-title: Descendentes
+title: Gerações
+description: Lista de descendentes e antepassados de Johannes Scherer organizada por gerações.
 layout: pessoaslista
 intro_image: "images/illustrations/reading.svg"
 intro_image_absolute: true
 intro_image_hide_on_mobile: false
 permalink: pessoaslista
 weight: 1
+featured: true
 ---
 
 

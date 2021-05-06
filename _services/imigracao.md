@@ -1,11 +1,13 @@
 ---
 title: Imigração
+description: Um pouco da história de como Johannes e sua família vieram da Europa ao Brasil.
 layout: imigracao
 intro_image: "images/navio/friedrich-navio.png"
 intro_image_absolute: true
 intro_image_hide_on_mobile: false
 permalink: imigracao
 weight: 3
+featured: true
 data: "29/04/2021"
 summary: "Johannes veio ao Brasil junto com a sua família. Mais precisamente, vieram ao Brasil: <a href='/pessoas/SchererJohannes1769/'>Johannes Scherer</a>, sua segunda esposa <a href='/pessoas/JacobyMariaCristinaElisabeta1786/'>Maria Cristina Elisabeta Jacoby</a> e os filhos: <a href='/pessoas/SchererJohannJacob1805/'>Johann Jacob Scherer</a> (filho do primeiro matrimônio), <a href='/pessoas/SchererConrad1811/'>Conrad Scherer</a> (filho do segundo matrimônio), <a href='/pessoas/SchererJohannes1813/'>Johannes Scherer</a>, <a href='/pessoas/SchererPeter1814/'>Peter Scherer</a> e <a href='/pessoas/SchererPhilipp1823/'>Philipp Scherer</a> .</br></br>
 A família embarcou no navio transatlântico <i>Friedrich Heinrich</i> no dia 25 de Agosto de 1825, em Amsterdam, e desembarcou no porto do Rio de Janeiro em  8 de novembro de 1825. Lá permaneceram até dia 03 de dezembro de 1825, quando embarcaram no bragantim-escuna <i>Galvão</i> que chegou em São Leopoldo no dia 29 de dezembro de 1825.</br></br>

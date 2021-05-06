@@ -21,6 +21,9 @@ main:
   - name: 'Contato'
     url: '/contato'
     weight: 4
+  - name: 'Sobre'
+    url: '/sobre'
+    weight: 5
 
 footer:
   - name: 'Início'
