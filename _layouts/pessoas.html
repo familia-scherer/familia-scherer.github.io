@@ -22,6 +22,7 @@ bodyClass: page-services-list
   <div class="row">
     <!-- {% assign weighted_services = site.services | sort: "weight" %} -->
     {% for pessoa in site.pessoas %}
+    {% if  pessoa.hide != true %}
     <div class="col-12 col-md-12 ">
       <div class="service service-summary">
         <div class="service-content">
@@ -32,6 +33,9 @@ bodyClass: page-services-list
         </div>
       </div>
     </div>
+    {% endif %}
     {% endfor %}
   </div>
 </div>
+
+

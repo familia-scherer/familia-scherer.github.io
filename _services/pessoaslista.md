@@ -129,6 +129,14 @@ Lista de descendentes e antepassados de [Johannes Scherer (1769-1850)]({% link _
 <p markdown="1" style="margin-left: 1.0em">2-1. [SCHERER, Johannes]({% link _pessoas/SchererJohannes1769.md %}) 2º casamento com [JACOBY, Maria Cristina Elisabeta]({% link _pessoas/JacobyMariaCristinaElisabeta1786.md %}) </p>
 <p markdown="1" style="margin-left: 2.0em">3-2. [SCHERER, Conrad]({% link _pessoas/SchererConrad1811.md %}) c.c. GRUB, Elisabeth</p>
 <p markdown="1" style="margin-left: 2.0em">3-3. [SCHERER, Johannes]({% link _pessoas/SchererJohannes1813.md %}) c.c. GERMANI, Maria Magdalene</p>
+<p markdown="1" style="margin-left: 3.0em">4-1. SCHERER, Felisbina</p>
+<p markdown="1" style="margin-left: 3.0em">4-2. SCHERER, Pedro</p>
+<p markdown="1" style="margin-left: 3.0em">4-3. SCHERER, João</p>
+<p markdown="1" style="margin-left: 3.0em">4-4. SCHERER, Henrique</p>
+<p markdown="1" style="margin-left: 3.0em">4-5. SCHERER, Guilherme</p>
+<p markdown="1" style="margin-left: 3.0em">4-6. SCHERER, Carolina</p>
+<p markdown="1" style="margin-left: 3.0em">4-7. SCHERER, Carlos</p>
+<p markdown="1" style="margin-left: 3.0em">4-8. SCHERER, Jaco</p>
 <p markdown="1" style="margin-left: 2.0em">3-4. [SCHERER, Peter]({% link _pessoas/SchererPeter1814.md %}) c.c. SCHERER, Maria Sophia</p>
 <p markdown="1" style="margin-left: 2.0em">3-5. [SCHERER, Philipp]({% link _pessoas/SchererPhilipp1823.md %})</p>
-<p markdown="1" style="margin-left: 2.0em">3-6. SCHERER, Maria Catharina c.c. SCHERER, Johann Philipp</p>
+<p markdown="1" style="margin-left: 2.0em">3-6. [SCHERER, Maria Catharina]({% link _pessoas/SchererMariaCatharina1826.md %}) c.c. SCHERER, Johann Philipp</p>
