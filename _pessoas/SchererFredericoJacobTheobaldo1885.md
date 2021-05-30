@@ -9,13 +9,13 @@ layout: pessoa
 **Morte:** 25 de dezembro de 1948, Lajeado, Rio Grande do Sul, Brasil [2]<br/>
 **Nome Alternativo:** Jakob Scherer<br/>
 **Pais:** [Pedro Scherer (1841-1917)]({% link _pessoas/SchererPeter1841.md %}) e [Elisabetha Schneider](){:class="underconstruction"} [1][2]<br/>
-**Casamento:** [Idalina Bernardina Scherer](){:class="underconstruction"}, 5 de outubro de 1910, Lajeado, Rio Grande do Sul, Brasil [1]<br/>
+**Casamento:** [Idalina Renaldina Scherer]({% link _pessoas/SchererIdalinaRenaldina1890.md %}) , 5 de outubro de 1910, Lajeado, Rio Grande do Sul, Brasil [1]<br/>
 **Profissão:** Agricultor<br/>
 **5 Filhos:** <br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1. [Norminda Hagemann](){:class="underconstruction"} [2]<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1. [Norminda Hagemann (Scherer)](){:class="underconstruction"} [2]<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2. [Raimundo Beno Scherer](){:class="underconstruction"} [2]<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3. [Norberto Edgar Scherer]({% link _pessoas/SchererNorbertoEdgar1914.md %}) [2]<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 4. [Olinda Gauer](){:class="underconstruction"} [2]<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 4. [Olinda Gauer (Scherer)](){:class="underconstruction"} [2]<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 5. [Arnoldo Alfredo Scherer](){:class="underconstruction"} [2]<br/>
 
 
@@ -23,10 +23,10 @@ layout: pessoa
 ## Vida:
 Frederico Jacob Theobaldo Scherer nasceu em 07 de dezembro de 1885 em Lajeado. Ele era filho de [Pedro Scherer (1841-1917)]({% link _pessoas/SchererPeter1841.md %}) e [Elisabetha Schneider](){:class="underconstruction"} [1].
 
-De acordo com a certidão de casamento [1], Frederico casou-se com [Idalina Bernardina Scherer](){:class="underconstruction"} em 5 de outubro de 1910 em Lajeado. Consta que Frederico era agricultor, tinha 24 anos e era filho de [Pedro Scherer (1841-1917)]({% link _pessoas/SchererPeter1841.md %}) e [Elisabetha Schneider](){:class="underconstruction"}. Deste casamento tiveram 5 filhos [2].
+De acordo com a certidão de casamento [1], Frederico casou-se com [Idalina Renaldina Scherer]({% link _pessoas/SchererIdalinaRenaldina1890.md %}) em 5 de outubro de 1910 em Lajeado. Consta que Frederico era agricultor, tinha 24 anos e era filho de [Pedro Scherer (1841-1917)]({% link _pessoas/SchererPeter1841.md %}) e [Elisabetha Schneider](){:class="underconstruction"}. Deste casamento tiveram 5 filhos [2].
 <figure>
 <img src="https://drive.google.com/uc?id=1RwAs9Zp7lbqYcjubCp_Mnbgj8Ib0KJme" width="70%">
-<figcaption class="figure-caption">Certidão de Casamento Frederico J. T. Scherer e Idalina Bernardina Scherer </figcaption>
+<figcaption class="figure-caption">Certidão de Casamento Frederico J. T. Scherer e Idalina Renaldina Scherer </figcaption>
 </figure>
 
 
@@ -38,7 +38,7 @@ No recenseamento realizado no dia 1 de setembro de 1920, Frederico aparece como 
 </figure>
 
 
-De acordo com a certidão de óbito [2], Frederico Jacob Theobaldo Scherer faleceu 25 de dezembro de 1948 às 1:50 horas em domicílio, em Forquetinha (Conventos, Lajeado - RS) com causa primária da morte câncer no estômago e com  63 anos e 17 dias de idade. Ele era agricultor, branco, nascido em 07 de dezembro de 1885, natural de Lajeado e residente em Conventos. Ele era filho de Pedro Scherer, agricultor, e Elisabetha Schneider, doméstica, naturais deste Estado, já falecidos. Ele foi casado neste cartório com [Idalina Bernardina Scherer](){:class="underconstruction"} (casamento realizado em Lajeado em 5 de Outubro de 1910 ), de cujo matrimônio deixou ao cônjuge sobrevivente os filhos: [Norminda](){:class="underconstruction"}, casada com Alfredo Alleman Germano; [Raimundo Beno](){:class="underconstruction"}, casado; [Norberto Edgar]({% link _pessoas/SchererNorbertoEdgar1914.md %}), casado; [Olinda](){:class="underconstruction"}, casada com Lauro Gauer; [Arnold Alfredo](){:class="underconstruction"}, casado. O sepultamento foi realizado no cemitério evangélico Conventos.
+De acordo com a certidão de óbito [2], Frederico Jacob Theobaldo Scherer faleceu 25 de dezembro de 1948 às 1:50 horas em domicílio, em Forquetinha (Conventos, Lajeado - RS) com causa primária da morte câncer no estômago e com  63 anos e 17 dias de idade. Ele era agricultor, branco, nascido em 07 de dezembro de 1885, natural de Lajeado e residente em Conventos. Ele era filho de Pedro Scherer, agricultor, e Elisabetha Schneider, doméstica, naturais deste Estado, já falecidos. Ele foi casado neste cartório com [Idalina Renaldina Scherer]({% link _pessoas/SchererIdalinaRenaldina1890.md %}) (casamento realizado em Lajeado em 5 de Outubro de 1910 ), de cujo matrimônio deixou ao cônjuge sobrevivente os filhos: [Norminda](){:class="underconstruction"}, casada com Alfredo Alleman Germano; [Raimundo Beno](){:class="underconstruction"}, casado; [Norberto Edgar]({% link _pessoas/SchererNorbertoEdgar1914.md %}), casado; [Olinda](){:class="underconstruction"}, casada com Lauro Gauer; [Arnold Alfredo](){:class="underconstruction"}, casado. O sepultamento foi realizado no cemitério evangélico Conventos.
 
 <figure>
 <img src="https://drive.google.com/uc?id=1ae-g-q6dcsJIBBZ9d_g81q3d5vPX5XFK" width="70%">

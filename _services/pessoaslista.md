@@ -20,7 +20,7 @@ Lista de descendentes e antepassados de [Johannes Scherer (1769-1850)]({% link _
 <p markdown="1" style="margin-left: 1.0em;">2-1. [SCHERER, Johannes]({% link _pessoas/SchererJohannes1769.md %}) 1º casamento com Desconhecido</p>
 <p markdown="1" style="margin-left: 2.0em">3-1. [SCHERER, Johann Jacob]({% link _pessoas/SchererJohannJacob1805.md %}) c.c. GRUB, Catharina</p>
 <p markdown="1" style="margin-left: 3.0em">4-1. [SCHERER, Peter]({% link _pessoas/SchererPeter1841.md %}) c.c. SCHNEIDER, Elisabetha</p>
-<p markdown="1" style="margin-left: 4.0em">5-1. [SCHERER, Frederico Jacob Theobaldo]({% link _pessoas/SchererFredericoJacobTheobaldo1885.md %})<br>c.c. SCHERER, Idalina Renaldina</p>
+<p markdown="1" style="margin-left: 4.0em">5-1. [SCHERER, Frederico Jacob Theobaldo]({% link _pessoas/SchererFredericoJacobTheobaldo1885.md %}) c.c. [SCHERER, Idalina Renaldina]({% link _pessoas/SchererIdalinaRenaldina1890.md %})</p>
 <p markdown="1" style="margin-left: 5em">6-1. [SCHERER, Norberto Edgar]({% link _pessoas/SchererNorbertoEdgar1914.md %}) c.c. QUINOT, Elvira</p>
 <p markdown="1" style="margin-left: 6em">7-1. [SCHERER, Arthur Astor]({% link _pessoas/SchererArthurAstor1939.md %}) c.c. ECKHARDT, Araci</p>
 <p markdown="1" style="margin-left: 7em">8-1. [SCHERER, César Luis]({% link _pessoas/SchererCesarLuis1961.md %}) c.c. MANZKE, Sônia Roseli</p>
@@ -69,9 +69,9 @@ Lista de descendentes e antepassados de [Johannes Scherer (1769-1850)]({% link _
 <p markdown="1" style="margin-left: 4.0em">5-11. SCHERER, Elisabeth Maria Pauline</p>
 <p markdown="1" style="margin-left: 4.0em">5-12. SCHERER, Katharine Florentine</p>
 <p markdown="1" style="margin-left: 4.0em">5-13. SCHERER, Leopoldo</p>
-<p markdown="1" style="margin-left: 3.0em">4-2. SCHERER, Jacob c.c. WEIDE, Catharina</p>
-<p markdown="1" style="margin-left: 4.0em">5-1. SCHERER, Guilherme c.c. HERMANN, Catharina Luiza</p>
-<p markdown="1" style="margin-left: 5em">6-1. SCHERER, Idalina Renaldina c.c. (ver 1. 2-1. 3-1. 4-1. 5-1.): SCHERER, Frederico Jacob Theobaldo</p>
+<p markdown="1" style="margin-left: 3.0em">4-2. [SCHERER, Jacob]({% link _pessoas/SchererJacob1830.md %}) c.c. WEIDE, Catharina</p>
+<p markdown="1" style="margin-left: 4.0em">5-1. [SCHERER, Guilherme]({% link _pessoas/SchererGuilherme1865.md %}) c.c. HERMANN, Catharina Luiza</p>
+<p markdown="1" style="margin-left: 5em">6-1. [SCHERER, Idalina Renaldina]({% link _pessoas/SchererIdalinaRenaldina1890.md %}) c.c. (ver 1. 2-1. 3-1. 4-1. 5-1.): [SCHERER, Frederico Jacob Theobaldo]({% link _pessoas/SchererFredericoJacobTheobaldo1885.md %})</p>
 <p markdown="1" style="margin-left: 5em">6-2. SCHERER, Olga</p>
 <p markdown="1" style="margin-left: 5em">6-3. SCHERER, Margaretha Paulina</p>
 <p markdown="1" style="margin-left: 5em">6-4. SCHERER, João c.c. Desconhecido</p>
@@ -101,13 +101,13 @@ Lista de descendentes e antepassados de [Johannes Scherer (1769-1850)]({% link _
 <p markdown="1" style="margin-left: 6em">7-2. SCHERER, Laurino</p>
 <p markdown="1" style="margin-left: 6em">7-3. SCHERER, Jurema</p>
 <p markdown="1" style="margin-left: 6em">7-4. SCHERER, Dario</p>
-<p markdown="1" style="margin-left: 6em">7-5. SCHERER, Werno<br>c.c. ECKHARDT, Romilda</p>
+<p markdown="1" style="margin-left: 6em">7-5. SCHERER, Werno c.c. ECKHARDT, Romilda</p>
 
 <p markdown="1" style="margin-left: 7em">8-1. SCHERER, Lotar</p>
 <p markdown="1" style="margin-left: 7em">8-2. SCHERER, Lizelote</p>
 <p markdown="1" style="margin-left: 7em">8-3. SCHERER, Nadir</p>
 <p markdown="1" style="margin-left: 6em">7-6. SCHERER, Glaci</p>
-<p markdown="1" style="margin-left: 4.0em">5-5. SCHERER, Jacob<br>c.c. BAUM, Catharina</p>
+<p markdown="1" style="margin-left: 4.0em">5-5. SCHERER, Jacob c.c. BAUM, Catharina</p>
 
 <p markdown="1" style="margin-left: 4.0em">5-6. SCHERER, Maria Elisabeth</p>
 <p markdown="1" style="margin-left: 4.0em">5-7. SCHERER, Katharine</p>

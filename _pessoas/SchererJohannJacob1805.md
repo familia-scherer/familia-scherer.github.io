@@ -11,7 +11,7 @@ layout: pessoa
 **2° Casamento:** [Catharina Grub](){:class="underconstruction"}, 3 de ago de 1833, São Leopoldo, RS, Brasil [1]<br/>
 **10 Filhos:**<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. [Maria Elisabetha Scherer](){:class="underconstruction"} [3]<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. [Jacob Scherer (1831-1915)](){:class="underconstruction"} [3]<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. [Jacob Scherer (1831-1915)]({% link _pessoas/SchererJacob1830.md %}) [3]<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3. [Philippine Scherer](){:class="underconstruction"} [3]<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4. [Friedrich Scherer](){:class="underconstruction"} [3]<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5. [Maria Sara Scherer](){:class="underconstruction"} [3]<br/>
