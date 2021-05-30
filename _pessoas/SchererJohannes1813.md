@@ -7,16 +7,16 @@ layout: pessoa
 
 **Nascimento:** 1813, [Schmidthachenbach, Birkenfeld, Rheinland-Pfalz, Alemanha]({% link _lugares/Schmidthachenbach.md %})  <br/>
 **Pais:** [Johannes Scherer (1769-1850)]({% link _pessoas/SchererJohannes1769.md %}) e [Maria Cristina Elisabeta Jacoby]({% link _pessoas/JacobyMariaCristinaElisabeta1786.md %})<br/>
-**Casamento:** [Maria Magdalene Germani]({% link _pessoas/UnderConstruction.md %}), 08 de junho de 1844, [São Leopoldo, Rio Grande do Sul, Brasil]({% link _lugares/SaoLeopoldo.md %})<br/>
+**Casamento:** [Maria Magdalene Germani](){:class="underconstruction"}, 08 de junho de 1844, [São Leopoldo, Rio Grande do Sul, Brasil]({% link _lugares/SaoLeopoldo.md %})<br/>
 **8 Filhos:**<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. [Felisbina]({% link _pessoas/UnderConstruction.md %}) [2]<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. [Pedro]({% link _pessoas/UnderConstruction.md %}) [2]<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3. [João]({% link _pessoas/UnderConstruction.md %}) [2]<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4. [Henrique]({% link _pessoas/UnderConstruction.md %}) [2]<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5. [Guilherme]({% link _pessoas/UnderConstruction.md %}) [2]<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;6. [Carolina]({% link _pessoas/UnderConstruction.md %}) [2]<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;7. [Carlos]({% link _pessoas/UnderConstruction.md %}) [2]<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;8. [Jaco]({% link _pessoas/UnderConstruction.md %}) [2]<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. [Felisbina](){:class="underconstruction"} [2]<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. [Pedro](){:class="underconstruction"} [2]<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3. [João](){:class="underconstruction"} [2]<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4. [Henrique](){:class="underconstruction"} [2]<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5. [Guilherme](){:class="underconstruction"} [2]<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;6. [Carolina](){:class="underconstruction"} [2]<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;7. [Carlos](){:class="underconstruction"} [2]<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;8. [Jaco](){:class="underconstruction"} [2]<br/>
 
 
 ## Vida:

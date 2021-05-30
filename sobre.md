@@ -5,7 +5,7 @@ layout: page
 bodyClass: page-about
 ---
 
-Meu nome é Lyssa Priscyla Scherer, nasci em Umuarama-PR porém vivi toda a minha infância em Marechal Cândido Rondon, Paraná. Sou formada em Ciência da Computação pela UNIOESTE de Cascavel-PR. Atualmente moro em Aachen na Alemanha, onde faço mestrado em Ciência de Dados e trabalho. Fiz esse site para falar um pouco sobre as origens da minha família por parte de pai (nascido em Lajeado-RS).
+Meu nome é [Lyssa Priscyla Scherer Bertaglia]({% link _pessoas/SchererLyssaPriscyla1995.md %}), nasci em Umuarama-PR porém vivi toda a minha infância em Marechal Cândido Rondon, Paraná. Sou formada em Ciência da Computação pela UNIOESTE de Cascavel-PR. Atualmente moro em Aachen na Alemanha, onde faço mestrado em Ciência de Dados e trabalho. Fiz esse site para falar um pouco sobre as origens da minha família por parte de pai (nascido em Lajeado-RS).
 
 
 ## A busca pela Família
@@ -18,18 +18,18 @@ A busca não foi em vão, encontrei o túmulo dos meus bisavós e trisavós no c
 
 Após a viagem, havia chegado a 6 gerações acima de mim:
 
-1) Pai: César Scherer<br/>
-2) Avô: Arthur Astor Scherer<br/>
-3) Bisavô: Norberto Edgar Scherer - Enterrado no cemitério de conventos<br/>
-4) Trisavô: Frederico Jacob Theobaldo Scherer - enterrado no cemitério de conventos<br/>
-5) Tetravo: Pedro Scherer - enterrado no cemitério de olarias<br/>
-6) Pentavô: Johann Jacob Scherer - Vindo da Alemanha, enterrado no cemitério de olarias<br/>
+1) Pai: [César Scherer]({% link _pessoas/SchererCesarLuis1961.md %})<br/>
+2) Avô: [Arthur Astor Scherer]({% link _pessoas/SchererArthurAstor1939.md %})<br/>
+3) Bisavô: [Norberto Edgar Scherer]({% link _pessoas/SchererNorbertoEdgar1914.md %}) - Enterrado no cemitério de conventos<br/>
+4) Trisavô: [Frederico Jacob Theobaldo Scherer]({% link _pessoas/SchererFredericoJacobTheobaldo1885.md %}) - enterrado no cemitério de conventos<br/>
+5) Tetravo: [Peter Scherer]({% link _pessoas/SchererPeter1841.md %}) - enterrado no cemitério de olarias<br/>
+6) Pentavô: [Johann Jacob Scherer]({% link _pessoas/SchererJohannJacob1805.md %}) - Vindo da Alemanha, enterrado no cemitério de olarias<br/>
 
 Depois da viagem, me mudei para a Alemanha, e como não tinha muito tempo livre acabei parando de buscar mais informações. Mas, na metade de 2020 voltei a pesquisar e descobri mais duas gerações.
 
-7) Hexavô: Johannes Scherer - Vindo da Alemanha com sua família<br/>
-8) Heptavô: Conradt Scherer - Viveu na alemanha, mas nao tenho mais informações.<br/>
+7) Hexavô: [Johannes Scherer]({% link _pessoas/SchererJohannes1769.md %}) - Vindo da Alemanha com sua família<br/>
+8) Heptavô: [Conradt Scherer]({% link _pessoas/SchererConradt.md %}) - Viveu na alemanha, mas nao tenho mais informações.<br/>
 
-No passar desses anos de pesquisa juntei muita informação e pensei em escrever um livro, porém achei melhor criar um site com todos os dados, assim mais pessoas podem contribuir com a pesquisa e descobrir um pouco mais sobre essa grande família de Johannes Scherer.
+No passar desses anos de pesquisa juntei muita informação e pensei em escrever um livro, porém achei melhor criar um site com todos os dados, assim mais pessoas podem contribuir com a pesquisa e descobrir um pouco mais sobre essa grande família de [Johannes Scherer]({% link _pessoas/SchererJohannes1769.md %}).
 
 

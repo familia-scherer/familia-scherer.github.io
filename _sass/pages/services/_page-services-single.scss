@@ -11,3 +11,13 @@
     }
   }
 }
+
+.underconstruction:hover {
+  cursor: default;
+  // opacity: 0.8;
+  text-decoration: none;
+}
+
+.underconstruction {
+  opacity: 0.6;
+}

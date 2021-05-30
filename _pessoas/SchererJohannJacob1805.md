@@ -8,18 +8,18 @@ layout: pessoa
 **Nascimento:** 19 de dezembro de 1805, Schmidthachenbach, Birkenfeld, Rheinland-Pfalz, Alemanha<br/>
 **Morte:** 9 de abril de 1881, Lajeado, RS, Brasil<br/>
 **Pais:** [Johannes Scherer (1769-1850)]({% link _pessoas/SchererJohannes1769.md %}), Desconhecida<br/>
-**2° Casamento:** [Catharina Grub]({% link _pessoas/UnderConstruction.md %}), 3 de ago de 1833, São Leopoldo, RS, Brasil [1]<br/>
+**2° Casamento:** [Catharina Grub](){:class="underconstruction"}, 3 de ago de 1833, São Leopoldo, RS, Brasil [1]<br/>
 **10 Filhos:**<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. [Maria Elisabetha Scherer]({% link _pessoas/UnderConstruction.md %}) [3]<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. [Jacob Scherer (1831-1915]({% link _pessoas/UnderConstruction.md %}) [3]<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3. [Philippine Scherer]({% link _pessoas/UnderConstruction.md %}) [3]<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4. [Friedrich Scherer]({% link _pessoas/UnderConstruction.md %}) [3]<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5. [Maria Sara Scherer]({% link _pessoas/UnderConstruction.md %}) [3]<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;6. [Philipp Scherer (1838-1914)/Johann Philipp]({% link _pessoas/UnderConstruction.md %}) [3]<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;7. [Pedro Scherer (1841-1917)]({% link _pessoas/UnderConstruction.md %}) [3]<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;8. [Heinrich Scherer]({% link _pessoas/UnderConstruction.md %}) [3]<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;9. [Helene Scherer]({% link _pessoas/UnderConstruction.md %}) [3]<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;10. [Christian Scherer]({% link _pessoas/UnderConstruction.md %}) [3]<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. [Maria Elisabetha Scherer](){:class="underconstruction"} [3]<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. [Jacob Scherer (1831-1915)](){:class="underconstruction"} [3]<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3. [Philippine Scherer](){:class="underconstruction"} [3]<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4. [Friedrich Scherer](){:class="underconstruction"} [3]<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5. [Maria Sara Scherer](){:class="underconstruction"} [3]<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;6. [Philipp Scherer (1838-1914)/Johann Philipp](){:class="underconstruction"} [3]<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;7. [Peter Scherer (1841-1917)]({% link _pessoas/SchererPeter1841.md %}) [3]<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;8. [Heinrich Scherer](){:class="underconstruction"} [3]<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;9. [Helene Scherer](){:class="underconstruction"} [3]<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;10. [Christian Scherer](){:class="underconstruction"} [3]<br/>
 
 ## Vida:
 

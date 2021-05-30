@@ -19,12 +19,12 @@ Lista de descendentes e antepassados de [Johannes Scherer (1769-1850)]({% link _
 <p markdown="1" style="margin-left: 0em">1. [SCHERER, Conradt]({% link _pessoas/SchererConradt.md %}) c.c. [SCHERER, Maria Magdalena]({% link _pessoas/SchererMariaMagdalena.md %})</p>
 <p markdown="1" style="margin-left: 1.0em;">2-1. [SCHERER, Johannes]({% link _pessoas/SchererJohannes1769.md %}) 1º casamento com Desconhecido</p>
 <p markdown="1" style="margin-left: 2.0em">3-1. [SCHERER, Johann Jacob]({% link _pessoas/SchererJohannJacob1805.md %}) c.c. GRUB, Catharina</p>
-<p markdown="1" style="margin-left: 3.0em">4-1. SCHERER, Pedro c.c. SCHNEIDER, Elisabetha</p>
-<p markdown="1" style="margin-left: 4.0em">5-1. SCHERER, Frederico Jacob Theobaldo<br>c.c. SCHERER, Idalina Renaldina</p>
-<p markdown="1" style="margin-left: 5em">6-1. SCHERER, Norberto Edgar c.c. QUINOT, Elvira</p>
-<p markdown="1" style="margin-left: 6em">7-1. SCHERER, Arthur Astor c.c. ECKHARDT, Araci</p>
-<p markdown="1" style="margin-left: 7em">8-1. SCHERER, César Luis c.c. MANZKE, Sônia Roseli</p>
-<p markdown="1" style="margin-left: 8em">9-1. SCHERER, Lyssa Priscyla</p>
+<p markdown="1" style="margin-left: 3.0em">4-1. [SCHERER, Peter]({% link _pessoas/SchererPeter1841.md %}) c.c. SCHNEIDER, Elisabetha</p>
+<p markdown="1" style="margin-left: 4.0em">5-1. [SCHERER, Frederico Jacob Theobaldo]({% link _pessoas/SchererFredericoJacobTheobaldo1885.md %})<br>c.c. SCHERER, Idalina Renaldina</p>
+<p markdown="1" style="margin-left: 5em">6-1. [SCHERER, Norberto Edgar]({% link _pessoas/SchererNorbertoEdgar1914.md %}) c.c. QUINOT, Elvira</p>
+<p markdown="1" style="margin-left: 6em">7-1. [SCHERER, Arthur Astor]({% link _pessoas/SchererArthurAstor1939.md %}) c.c. ECKHARDT, Araci</p>
+<p markdown="1" style="margin-left: 7em">8-1. [SCHERER, César Luis]({% link _pessoas/SchererCesarLuis1961.md %}) c.c. MANZKE, Sônia Roseli</p>
+<p markdown="1" style="margin-left: 8em">9-1. [SCHERER, Lyssa Priscyla]({% link _pessoas/SchererLyssaPriscyla1995.md %}) cc. BERTAGLIA, Thales Felipe</p>
 <p markdown="1" style="margin-left: 8em">9-2. SCHERER, Sally Karina c.c. CARLETTO, Rodrigo</p>
 
 <p markdown="1" style="margin-left: 6em">7-2. SCHERER, Nair c.c. SCHEUERMANN, Walter Rudi</p>

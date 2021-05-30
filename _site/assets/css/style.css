@@ -1069,6 +1069,10 @@ ul li, ol li { padding: 0; margin: 0; }
 
 .page-services-single .content > p:first-of-type { font-size: 1.6rem; line-height: 1.4; margin-bottom: 40px; font-weight: regular; color: #686868; }
 
+.underconstruction:hover { cursor: default; text-decoration: none; }
+
+.underconstruction { opacity: 0.6; }
+
 body { font-size: 16px; line-height: 1.2; font-family: Helvetica, Arial, sans-serif, -apple-system; }
 
 @media (min-width: 768px) { body { font-size: 16px; line-height: 1.3; } }
