@@ -20,11 +20,11 @@ layout: pessoa
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 5. [Arnoldo Alfredo Scherer](){:class="underconstruction"} [3]<br/>
 
 ## Vida:
-Idalina nasceu 12 de julho de 1890, Lajeado, Rio Grande do Sul, Brasil, filha de [Guilherme Scherer (1865 - 1922)]({% link _pessoas/SchererGuilherme1865.md %}) e [Catharina Luiza Herrmann](){:class="underconstruction"} e foi batizada 18 de novembro de 1890 na Igreja Evangélica de Conventos[1].
+Idalina nasceu 12 de julho de 1890, Lajeado, Rio Grande do Sul, Brasil, filha de [Guilherme Scherer (1865 - 1922)]({% link _pessoas/SchererGuilherme1865.md %}) e [Catharina Luiza Herrmann](){:class="underconstruction"} e foi batizada 18 de novembro de 1890 na Igreja Evangélica de Conventos [1].
 
 <figure>
 <img src="https://drive.google.com/uc?id=11szRiPFNotlI2e5MYtQftFm5Q7cHtksu" width="70%">
-<figcaption class="figure-caption">Registro de Batismo de Idalina R. Scherer - Igreja Evangélica de Conventos</figcaption>
+<figcaption class="figure-caption">Registro de Batismo de Idalina R. Scherer - Igreja Evangélica de Conventos [1]</figcaption>
 </figure>
 
 Em 5 de outubro de 1910, casou-se com [Frederico Jacob Theobaldo Scherer (1885-1948)]({% link _pessoas/SchererFredericoJacobTheobaldo1885.md %}) em Lajeado, RS, Brasil [2]. Eles tiveram pelo menos 5 filhos [3].

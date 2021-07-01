@@ -7,7 +7,7 @@ layout: pessoa
 
 **Nascimento:** 15 de marco de 1830, São Leopoldo, Rio Grande do Sul, Brasil<br/>
 **Morte:** 09 de janeiro de 1915, Lajeado, RS, Brasil<br/>
-**Nome Alternativo:** Jakob Scherer<br/>
+**Nome Alternativo:** Jakob Scherer (túmulo), Augusto Jacob Scherer (certidão de óbito do filho )<br/>
 **Pais:** [Johann Jacob Scherer (1805-1881)]({% link _pessoas/SchererJohannJacob1805.md %}) e [Catharina Grub](){:class="underconstruction"}<br/>
 **Casamento:** [Catharina Weide](){:class="underconstruction"}, 06 de janeiro de 1853, Novo Hamburgo, Rio Grande do Sul, Brasil<br/>
 **10 Filhos:**<br/>
@@ -16,7 +16,7 @@ layout: pessoa
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3. [Felippe Scherer](){:class="underconstruction"} [1]<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4. [Maria Elisabeth](){:class="underconstruction"} [1]<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5. [Paulina](){:class="underconstruction"} [1]<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;6. [Jacob Augusto Scherer (1870-1933)](){:class="underconstruction"} [1]<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;6. [Jacob Augusto Scherer (1870-1933)]({% link _pessoas/SchererJacobAugusto1870.md %}) [1]<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;7. [Christiana Guilhermina](){:class="underconstruction"} [1]<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;8. [Carolina](){:class="underconstruction"} [1]<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;9. [Catharina](){:class="underconstruction"} [1]<br/>
