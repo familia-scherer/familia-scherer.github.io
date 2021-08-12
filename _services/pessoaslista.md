@@ -2,7 +2,7 @@
 title: Gerações
 description: Lista de descendentes e antepassados de Johannes Scherer organizada por gerações.
 layout: pessoaslista
-intro_image: "images/illustrations/reading.svg"
+intro_image: 'images/illustrations/reading.svg'
 intro_image_absolute: true
 intro_image_hide_on_mobile: false
 permalink: pessoaslista
@@ -10,11 +10,9 @@ weight: 1
 featured: true
 ---
 
-
 # Lista Numerada
 
 Lista de descendentes e antepassados de [Johannes Scherer (1769-1850)]({% link _pessoas/SchererJohannes1769.md %}) numerada. A lista contém apenas o nome de pessoas identificadas por mim, caso encontre alguém faltando, [entre em contato]({% link _services/contact.md %})
-
 
 <p markdown="1" style="margin-left: 0em">1. [SCHERER, Conradt]({% link _pessoas/SchererConradt.md %}) c.c. [SCHERER, Maria Magdalena]({% link _pessoas/SchererMariaMagdalena.md %})</p>
 <p markdown="1" style="margin-left: 1.0em;">2-1. [SCHERER, Johannes]({% link _pessoas/SchererJohannes1769.md %}) 1º casamento com Desconhecido</p>
@@ -75,7 +73,6 @@ Lista de descendentes e antepassados de [Johannes Scherer (1769-1850)]({% link _
 <p markdown="1" style="margin-left: 5em">6-2. SCHERER, Olga</p>
 <p markdown="1" style="margin-left: 5em">6-3. SCHERER, Margaretha Paulina</p>
 <p markdown="1" style="margin-left: 5em">6-4. SCHERER, João c.c. Desconhecido</p>
-
 
 <p markdown="1" style="margin-left: 6em">7-1. SCHERER, Simon c.c. Desconhecido</p>
 
@@ -140,3 +137,13 @@ Lista de descendentes e antepassados de [Johannes Scherer (1769-1850)]({% link _
 <p markdown="1" style="margin-left: 2.0em">3-4. [SCHERER, Peter]({% link _pessoas/SchererPeter1814.md %}) c.c. SCHERER, Maria Sophia</p>
 <p markdown="1" style="margin-left: 2.0em">3-5. [SCHERER, Philipp]({% link _pessoas/SchererPhilipp1823.md %})</p>
 <p markdown="1" style="margin-left: 2.0em">3-6. [SCHERER, Maria Catharina]({% link _pessoas/SchererMariaCatharina1826.md %}) c.c. SCHERER, Johann Philipp</p>
+<p markdown="1" style="margin-left: 3.0em">4-1. [SCHERER SOBRINHO, Henrique]({% link _pessoas/SchererSobrinhoHenrique1848.md %}) c.c SCHERER, Maria</p>
+<p markdown="1" style="margin-left: 4.0em">5-1. [SCHERER, João Reynaldo]({% link _pessoas/SchererJoãoReynaldo1876.md %}) c.c ZIEGLER, Adelaide</p>
+<p markdown="1" style="margin-left: 5.0em">6-1. SCHERER, Fernando</p>
+<p markdown="1" style="margin-left: 5.0em">6-2. SCHERER, Docelina</p>
+<p markdown="1" style="margin-left: 5.0em">6-3. SCHERER, Mario</p>
+<p markdown="1" style="margin-left: 5.0em">6-4. SCHERER, Marino</p>
+<p markdown="1" style="margin-left: 5.0em">6-5. [SCHERER, Waldemar Ziegler]({% link _pessoas/SchererWaldemarZiegler1914.md %})</p>
+<p markdown="1" style="margin-left: 6.0em">7-1. [SCHERER, João Miguel]({% link _pessoas/SchererJoãoMiguel.md %})</p>
+<p markdown="1" style="margin-left: 5.0em">6-6. SCHERER, Dalcin</p>
+<p markdown="1" style="margin-left: 5.0em">6-7. SCHERER, Sady</p>
