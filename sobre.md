@@ -1,11 +1,11 @@
 ---
 title: 'Sobre mim'
-date: 2018-02-22T17:01:34+07:00
+data: 23/04/2023
 layout: page
 bodyClass: page-about
 ---
 
-Meu nome é [Lyssa Priscyla Scherer Bertaglia]({% link _pessoas/SchererLyssaPriscyla1995.md %}), nasci em Umuarama-PR porém vivi toda a minha infância em Marechal Cândido Rondon, Paraná. Sou formada em Ciência da Computação pela UNIOESTE de Cascavel-PR. Atualmente moro em Aachen na Alemanha, onde faço mestrado em Ciência de Dados e trabalho. Fiz esse site para falar um pouco sobre as origens da minha família por parte de pai (nascido em Lajeado-RS).
+Meu nome é [Lyssa Priscyla Scherer]({% link _pessoas/SchererLyssaPriscyla1995.md %}), nasci em Umuarama-PR porém vivi toda a minha infância em Marechal Cândido Rondon, Paraná. Sou formada em Ciência da Computação pela UNIOESTE de Cascavel-PR. Atualmente moro em Maastricht na Holanda e trabalho como cientista de dados em Amsterdam. Fiz esse site para falar um pouco sobre as origens da minha família por parte de pai (nascido em Lajeado-RS).
 
 
 ## A busca pela Família
@@ -20,10 +20,10 @@ Após a viagem, havia chegado a 6 gerações acima de mim:
 
 1) Pai: [César Scherer]({% link _pessoas/SchererCesarLuis1961.md %})<br/>
 2) Avô: [Arthur Astor Scherer]({% link _pessoas/SchererArthurAstor1939.md %})<br/>
-3) Bisavô: [Norberto Edgar Scherer]({% link _pessoas/SchererNorbertoEdgar1914.md %}) - Enterrado no cemitério de conventos<br/>
-4) Trisavô: [Frederico Jacob Theobaldo Scherer]({% link _pessoas/SchererFredericoJacobTheobaldo1885.md %}) - enterrado no cemitério de conventos<br/>
-5) Tetravo: [Peter Scherer]({% link _pessoas/SchererPeter1841.md %}) - enterrado no cemitério de olarias<br/>
-6) Pentavô: [Johann Jacob Scherer]({% link _pessoas/SchererJohannJacob1805.md %}) - Vindo da Alemanha, enterrado no cemitério de olarias<br/>
+3) Bisavô: [Norberto Edgar Scherer]({% link _pessoas/SchererNorbertoEdgar1914.md %})<br/>
+4) Trisavô: [Frederico Jacob Theobaldo Scherer]({% link _pessoas/SchererFredericoJacobTheobaldo1885.md %})<br/>
+5) Tetravo: [Peter Scherer]({% link _pessoas/SchererPeter1841.md %})<br/>
+6) Pentavô: [Johann Jacob Scherer]({% link _pessoas/SchererJohannJacob1805.md %}) - Vindo da Alemanha<br/>
 
 Depois da viagem, me mudei para a Alemanha, e como não tinha muito tempo livre acabei parando de buscar mais informações. Mas, na metade de 2020 voltei a pesquisar e descobri mais duas gerações.
 

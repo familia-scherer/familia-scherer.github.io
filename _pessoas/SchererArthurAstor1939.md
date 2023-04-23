@@ -1,24 +1,26 @@
 ---
-title: "Arthur Astor Scherer (1939)"
-data: 30/05/2021
+title: "Arthur Astor Scherer (1939-2022)"
+data: 23/04/2023
 nome: Arthur Astor Scherer
 layout: pessoa
 ---
 
-**Nascimento:** 19 de outubro de 1939, Lajeado, Rio Grande do Sul, Brasil<br/>
+**Nascimento:** 19 de outubro de 1939, Lajeado, Rio Grande do Sul, Brasil [1, 2, 4]<br/>
+**Morte:** 13 de janeiro de 2022, Marechal Cândido Rondon, Paraná, Brasil [4]<br/>
+**Sepultamento:** Cemitério Municipal de Marechal Cândido Rondon [4]<br/>
 **Nome Alternativo:** Astor<br/>
-**Pais:** [Norberto Edgar Scherer (1914-1986)]({% link _pessoas/SchererNorbertoEdgar1914.md %}) e [Elvira Quinot](){:class="underconstruction"}<br/>
-**Casamento:** [Araci Scherer (Eckhard)](){:class="underconstruction"}, 20 de agosto de 1960, Lajeado, Rio Grande do Sul, Brasil<br/>
+**Pais:** [Norberto Edgar Scherer (1914-1986)]({% link _pessoas/SchererNorbertoEdgar1914.md %}) e [Elvira Quinot](){:class="underconstruction"} [1, 2, 4]<br/>
+**Casamento:** [Araci Eckhardt](){:class="underconstruction"}, 20 de agosto de 1960, Lajeado, Rio Grande do Sul, Brasil [4]<br/>
 **2 Filhos:** <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1. [César Luis Scherer]({% link _pessoas/SchererCesarLuis1961.md %})<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2. [Izolete Deli Langaro (Scherer)](){:class="underconstruction"}<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2. [Izolete Deli (Langaro)]({% link _pessoas/SchererIzoleteDeli1971.md %})<br/>
 
 
 ## Vida:
 
 Arthur Astor Scherer, conhecido como Astor, nasceu em 19 de outubro de 1939 em Lajeado, RS, Brasil, filho de [Norberto Edgar Scherer]({% link _pessoas/SchererNorbertoEdgar1914.md %}) e [Elvira Quinot](){:class="underconstruction"}.
 
-Até seus 24 anos, Astor morou em Lajeado, RS, Brasil. Lá, ele trabalhou na olaria de seu pai e mais tarde trabalhou como agricultor. Entre os anos de 1958 e 1959 fez parte do exército, onde exerceu a função de cozinheiro [1].
+Até seus 24 anos, Astor morou em Lajeado, RS, Brasil. Lá, ele trabalhou na olaria de seu pai e mais tarde trabalhou como agricultor. Entre os anos de 1958 e 1959 fez parte do exército, onde exerceu a função de cozinheiro [3].
 
 <figure>
 <img src="https://drive.google.com/uc?id=1Nl7ZhJcuyw8noCN9A9-fuGmD5n8Yfcvt" width="30%">
@@ -39,9 +41,16 @@ Em 24 de julho de 1964, com 24 anos, mudou-se para Santa Helena, PR, Brasil com 
 <figcaption class="figure-caption">Olaria de Arthur em Sub-sede, Santa Helena</figcaption>
 </figure>
 
-Em agosto de 1989, com 49 anos, mudou-se para Marechal Cândido Rondon, PR, Brasil, onde vive até hoje. Algum tempo após o falecimento de [Araci Scherer (Eckhard)](){:class="underconstruction"} em 2000, Arthur se juntou com [Maria Soutes](){:class="underconstruction"}.
+Em agosto de 1989, com 49 anos, mudou-se para Marechal Cândido Rondon, PR, Brasil. Algum tempo após o falecimento de [Araci Scherer (Eckhard)](){:class="underconstruction"} em 2000, Arthur se juntou com [Maria Soutes](){:class="underconstruction"}.
+
+Arthur Astor Scherer faleceu em 13 de janeiro de 2022 em Marechal Cândido Rondon. Esse site é dedicado a ele.
 
 ## Referências:
 
-[1] Declaração do Exército. Disponível em: [https://drive.google.com/file/d/1ZydHDyx5vVUTCOs4R9D1z9Fi5R1DYd-S/view?usp=sharing](https://drive.google.com/file/d/1ZydHDyx5vVUTCOs4R9D1z9Fi5R1DYd-S/view?usp=sharing) . Acesso em: 30 maio 2021.
+[1] Certidão de Nascimento de Arthur Astor Scherer. Registro Civil de Pessoas Naturais - Lajeado, Rio Grande do Sul, Brasil. Livro 44, Folha 78v., Número 334. Disponível em: [https://drive.google.com/file/d/1q7gi2vWNd4xbUZFBMP-W3d3CztdhdKJ8/view?usp=sharing](https://drive.google.com/file/d/1q7gi2vWNd4xbUZFBMP-W3d3CztdhdKJ8/view?usp=sharing)
 
+[2] Certidão de Casamento de Arthur Astor Scherer e Arací Eckhardt. Registro Civil de Pessoas Naturais - Lajeado, Rio Grande do Sul, Brasil. Livro B 20, Folha 31v., Número 2001. Disponível em: [https://drive.google.com/file/d/1pYMpI25tDp1pbB9P4eNJJoe1S8EvFrBI/view?usp=sharing](https://drive.google.com/file/d/1pYMpI25tDp1pbB9P4eNJJoe1S8EvFrBI/view?usp=sharing)
+
+[3] Declaração do Exército. Disponível em: [https://drive.google.com/file/d/1ZydHDyx5vVUTCOs4R9D1z9Fi5R1DYd-S/view?usp=sharing](https://drive.google.com/file/d/1ZydHDyx5vVUTCOs4R9D1z9Fi5R1DYd-S/view?usp=sharing) . Acesso em: 30 maio 2021.
+
+[4] Certidão de Óbito de Arthur Astor Scherer. Registro Civil de Pessoas Naturais - Marechal Cândido Rondon, Paraná, Brasil. Ano 2022. Livro C-26, Folha 286, Termo 9961. Número de Matrícula: 0817290155 2022 4 00026 286 0009961 11. Disponível em: entrar em contato.

@@ -1,13 +1,13 @@
 ---
 title: "César Luis Scherer (1961)"
-data: 30/05/2021
+data: 23/04/2023
 nome: César Luis Scherer
 layout: pessoa
 ---
 
 **Nascimento:** 16 de julho de 1961, Lajeado, Rio Grande do Sul, Brasil <br/>
 **Pais:** [Arthur Astor Scherer (1939)]({% link _pessoas/SchererArthurAstor1939.md %}) e [Araci Scherer (Eckhard)](){:class="underconstruction"}<br/>
-**Casamento:** [Sônia R. M. Scherer (Manzke)](){:class="underconstruction"}, 31 de maio de 1986, Marechal Cândido Rondon, Paraná, Brasil<br/>
+**Casamento:** [Sônia Roseli Manzke](){:class="underconstruction"}, 31 de maio de 1986, Marechal Cândido Rondon, Paraná, Brasil<br/>
 **2 Filhos:** <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1. [Sally Karina Scherer](){:class="underconstruction"}<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2. [Lyssa Priscyla Scherer]({% link _pessoas/SchererLyssaPriscyla1995.md %})<br/>

@@ -12,8 +12,8 @@ layout: pessoa
 **Casamento:** [Rosina Fuchs](){:class="underconstruction"}, Lajeado, Rio Grande do Sul, Brasil [1]<br/>
 **11 Filhos:**<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. [Ricardo Scherer](){:class="underconstruction"} [1]<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. [Balduino Edmundo Scherer](){:class="underconstruction"} [1]<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3. [Francisco Alexandre Scherer](){:class="underconstruction"} [1]<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. [Balduino Edmundo Scherer]({% link _pessoas/SchererBalduinoEdmundo1902.md %}) [1]<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3. [Francisco Alexandre Scherer]({% link _pessoas/SchererFranciscoAlexandre1913.md %}) [1]<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4. [Christiano Laurindo Scherer](){:class="underconstruction"} [1]<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5. [Anastacia Scherer](){:class="underconstruction"} [1]<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;6. [Arnoldo Bruno Scherer](){:class="underconstruction"} [1]<br/>
