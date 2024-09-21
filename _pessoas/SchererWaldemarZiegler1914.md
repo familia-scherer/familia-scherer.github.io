@@ -19,7 +19,7 @@ Na certidão de óbito de sua mãe [Adelaide Ziegler], Waldemar aparece como "Mi
 Waldemar esta sepultado no túmulo da família em Palmeira das Missões. Imagens do jazigo podem ser vistas nas imagens abaixo. Alí consta que Waldemar nasceu no dia 10 de Junho de 1914 e faleceu em 11 de maio de 1989.
 
 <figure>
-<img src="https://drive.google.com/uc?id=1fPnGOm4ft7HXZphsOfMa7XOld2vprdlr" width="70%">
+<img src="https://drive.google.com/thumbnail?id=1fPnGOm4ft7HXZphsOfMa7XOld2vprdlr&sz=w1000" width="70%">
 <figcaption class="figure-caption">Túmulo da família em Palmeira das Missões [4]</figcaption>
 </figure>
 

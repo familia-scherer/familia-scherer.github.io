@@ -29,20 +29,20 @@ layout: pessoa
 De acordo com a certidão de óbito de Petro Scherer disponível em [1] e transcrita abaixo, Peter, chamado de pedro na certidão, era natural e residente de Lajeado, era viúvo de [Elisabetha Schneider](){:class="underconstruction"} e faleceu dia 20 de novembro de 1917, também em Lajeado, deixando 12 filhos.
 
 <figure>
- <img src="https://drive.google.com/uc?id=1nAd8AwKoCas9f6kx-Ec7OUVwo8stnaPW" width="70%">
+ <img src="https://drive.google.com/thumbnail?id=1nAd8AwKoCas9f6kx-Ec7OUVwo8stnaPW&sz=w1000" width="70%">
  <figcaption class="figure-caption">Transcrição Registro de Óbito Pedro Scherer</figcaption>
 </figure>
 
 No registro de sepultamento apresentado na figura abaixo encontramos mais algumas informações. Peter aparece na entrada número 15, nela aparece que Peter Scherer nasceu em 14 de novembro de 1841 (o nome do local está incompreensível), filho de [Jakob Scherer]({% link _pessoas/SchererJohannJacob1805.md %}) e [Catharina, nascida Grüb](){:class="underconstruction"}. Faleceu no dia 20 de novembro de 1917 em Schereseck (esquina Scherer, Lajeado) e foi sepultado no dia 21 de novembro de 1917 Neuwein (Nova Viena).  Peter se casou em 1865 com [Elisabeth, nascida Schneider](){:class="underconstruction"}. Nas anotações diz que Peter morreu dormindo e que tinha 12 filhos, 44 netos e 3 bisnetos. Este documento autenticado está disponível em [2].
 
 <figure>
- <img src="https://drive.google.com/uc?id=1x66xM1e4cF8TZDf5cqLotgcsiBsyy46U" width="100%">
+ <img src="https://drive.google.com/thumbnail?id=1x66xM1e4cF8TZDf5cqLotgcsiBsyy46U&sz=w1000" width="100%">
  <figcaption class="figure-caption">Registro de sepultamento de Peter Scherer [2]</figcaption>
 </figure>
 
 Peter enterrado no Cemitério de Olarias ao lado de sua esposa, quando estive lá a lápide estava caída no chão, abaixo podemos ver a foto da lápide.
 <figure>
- <img src="https://drive.google.com/uc?id=1Rs0fGStSfFOF_nE3Yj8uT8Nb3oEIaMXz" width="70%">
+ <img src="https://drive.google.com/thumbnail?id=1Rs0fGStSfFOF_nE3Yj8uT8Nb3oEIaMXz&sz=w1000" width="70%">
  <figcaption class="figure-caption">Túmulo Peter Scherer no Cemitério de Olarias: "Hier ruth in Gott Peter Scherer geboren 14. Oktober 1841 gestorben 20. November 1917 Ruhe Sanft". Transcrição: "Aqui repousa em Deus Peter Scherer nascido 14 de outubro de 1841 falecido 20 de novembro de 1917 Descanse em paz"</figcaption>
 </figure>
 

@@ -6,6 +6,7 @@ layout: pessoa
 ---
 
 **Nascimento:** 07 de agosto 1971, Santa Helena, Paraná, Brasil<br/>
+**Nome Casamento**: Izolete Deli Langaro<br/>
 **Pais:** [Arthur Astor Scherer]({% link _pessoas/SchererArthurAstor1939.md %}) e [Araci Eckhardt](){:class="underconstruction"}<br/>
 **Casamento:** [Deonilso Antonio Langaro](){:class="underconstruction"}<br/>
 **Filhos:**<br/>

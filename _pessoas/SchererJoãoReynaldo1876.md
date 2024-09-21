@@ -25,14 +25,14 @@ layout: pessoa
 Durante sua vida, João Reynaldo viveu e trabalhou em Passo Fundo. Abaixo é possível ver João Reynaldo (círculo azul) no Saladeiro São Miguel em Passo Fundo onde trabalhava.
 
 <figure>
-<img src="https://drive.google.com/uc?id=1GB5d6V226ghJXqIbiwe4Q7brzGUxbLUE" width="70%">
+<img src="https://drive.google.com/thumbnail?id=1GB5d6V226ghJXqIbiwe4Q7brzGUxbLUE&sz=w1000" width="70%">
 <figcaption class="figure-caption">Saladeiro São Miguel em Passo Fundo, provavelmente em 1930 [5]</figcaption>
 </figure>
 
 João esta sepultado no túmulo da família em Palmeira das Missões. Imagens do jazigo podem ser vistas nas imagens abaixo. Alí consta que João nasceu no dia 15 de maio de 1876 e faleceu em 14 de maio de 1946.
 
 <figure>
-<img src="https://drive.google.com/uc?id=1fPnGOm4ft7HXZphsOfMa7XOld2vprdlr" width="70%">
+<img src="https://drive.google.com/thumbnail?id=1fPnGOm4ft7HXZphsOfMa7XOld2vprdlr&sz=w1000" width="70%">
 <figcaption class="figure-caption">Túmulo da família em Palmeira das Missões [5]</figcaption>
 </figure>
 

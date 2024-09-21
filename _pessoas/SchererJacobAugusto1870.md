@@ -1,6 +1,6 @@
 ---
 title: "Jacob Augusto Scherer (1870-1933)"
-data: 31/05/2021
+data: 23/04/2023
 nome: Jacob Augusto Scherer
 layout: pessoa
 ---

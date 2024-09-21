@@ -27,7 +27,7 @@ layout: pessoa
 Johannes Scherer, evangélico, nasceu 27 de setembro de 1769 em [Schmidthachenbach na Alemanha]({% link _lugares/Schmidthachenbach.md %}) filho de [Conradt Scherer]({% link _pessoas/SchererConradt.md %}) e [Maria Magdalena Scherer]({% link _pessoas/SchererMariaMagdalena.md %}). Seu batismo foi realizado em 01 de outubro de 1769 em Becherbach, Pflaz, Bavaria.
 
 <figure>
-  <img src="https://drive.google.com/uc?id=1fFs5Ajr2ZabQhtNYFMga0b5HkbAs9CHe" width="100%">
+  <img src="https://drive.google.com/thumbnail?id=17Pl-ZkGkggF4l_mM_S-YtH95pz16h--X&sz=w1000" width="100%">
   <figcaption class="figure-caption">Certidao de Batizmo de Johannes Scherer realizado em 01 de outubro de 1769 em Becherbach, Pflaz, Bavaria [1]</figcaption>
 </figure>
 

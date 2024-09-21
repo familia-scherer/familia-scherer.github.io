@@ -25,7 +25,7 @@ Frederico Jacob Theobaldo Scherer nasceu em 07 de dezembro de 1885 em Lajeado. E
 
 De acordo com a certidão de casamento [1], Frederico casou-se com [Idalina Renaldina Scherer]({% link _pessoas/SchererIdalinaRenaldina1890.md %}) em 5 de outubro de 1910 em Lajeado. Consta que Frederico era agricultor, tinha 24 anos e era filho de [Pedro Scherer (1841-1917)]({% link _pessoas/SchererPeter1841.md %}) e [Elisabetha Schneider](){:class="underconstruction"}. Deste casamento tiveram 5 filhos [2].
 <figure>
-<img src="https://drive.google.com/uc?id=1RwAs9Zp7lbqYcjubCp_Mnbgj8Ib0KJme" width="70%">
+<img src="https://drive.google.com/thumbnail?id=1RwAs9Zp7lbqYcjubCp_Mnbgj8Ib0KJme&sz=w1000" width="70%">
 <figcaption class="figure-caption">Certidão de Casamento Frederico J. T. Scherer e Idalina Renaldina Scherer </figcaption>
 </figure>
 
@@ -33,7 +33,7 @@ De acordo com a certidão de casamento [1], Frederico casou-se com [Idalina Rena
 
 No recenseamento realizado no dia 1 de setembro de 1920, Frederico aparece como proprietário de um lote em "Picada Scherer", Lajeado [3].
 <figure>
-<img src="https://drive.google.com/uc?id=14GatxzOgXIFthuCgSfxTBPAqNtKeGYjr" width="70%">
+<img src="https://drive.google.com/thumbnail?id=14GatxzOgXIFthuCgSfxTBPAqNtKeGYjr&sz=w1000" width="70%">
 <figcaption class="figure-caption">Recenseamento realizado no dia 1 de setembro de 1920 onde aparece Frederico J. T. Scherer como morador em Picada Scherer, Lajeado</figcaption>
 </figure>
 
@@ -41,13 +41,13 @@ No recenseamento realizado no dia 1 de setembro de 1920, Frederico aparece como 
 De acordo com a certidão de óbito [2], Frederico Jacob Theobaldo Scherer faleceu 25 de dezembro de 1948 às 1:50 horas em domicílio, em Forquetinha (Conventos, Lajeado - RS) com causa primária da morte câncer no estômago e com  63 anos e 17 dias de idade. Ele era agricultor, branco, nascido em 07 de dezembro de 1885, natural de Lajeado e residente em Conventos. Ele era filho de Pedro Scherer, agricultor, e Elisabetha Schneider, doméstica, naturais deste Estado, já falecidos. Ele foi casado neste cartório com [Idalina Renaldina Scherer]({% link _pessoas/SchererIdalinaRenaldina1890.md %}) (casamento realizado em Lajeado em 5 de Outubro de 1910 ), de cujo matrimônio deixou ao cônjuge sobrevivente os filhos: [Norminda](){:class="underconstruction"}, casada com Alfredo Alleman Germano; [Raimundo Beno](){:class="underconstruction"}, casado; [Norberto Edgar]({% link _pessoas/SchererNorbertoEdgar1914.md %}), casado; [Olinda](){:class="underconstruction"}, casada com Lauro Gauer; [Arnold Alfredo](){:class="underconstruction"}, casado. O sepultamento foi realizado no cemitério evangélico Conventos.
 
 <figure>
-<img src="https://drive.google.com/uc?id=1ae-g-q6dcsJIBBZ9d_g81q3d5vPX5XFK" width="70%">
+<img src="https://drive.google.com/thumbnail?id=1ae-g-q6dcsJIBBZ9d_g81q3d5vPX5XFK&sz=w1000" width="70%">
 <figcaption class="figure-caption">Certidão de Óbito Frederico J. T. Scherer </figcaption>
 </figure>
 
 Seu túmulo se encontra no cemitério de conventos, a imagem da sua lápide pode ser vista abaixo. Infelizmente quando estive lá, alguns números e letras estavam faltando.
 <figure>
-<img src="https://drive.google.com/uc?id=16Zt52BBOQIPPVcH1j6CI7k8dQ5TWmsQC" width="70%">
+<img src="https://drive.google.com/thumbnail?id=16Zt52BBOQIPPVcH1j6CI7k8dQ5TWmsQC&sz=w1000" width="70%">
 <figcaption class="figure-caption">Lápide de Frederico J. T. Scherer no Cemitério de Conventos</figcaption>
 </figure>
 

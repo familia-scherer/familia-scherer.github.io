@@ -30,7 +30,7 @@ Em 06 de janeiro de 1853, Jacob casou-se com [Catharina Weide](){:class="underco
 
 De acordo com a certidao de obito, Jacob faleceu no dia 09 de janeiro de 1915 em Lajeado, RS, Brasil [1]. Seu túmulo se encontra no cemitério de olarias, a imagem da sua lápide pode ser vista abaixo.
 <figure>
-<img src="https://drive.google.com/uc?id=1zQeJSpMjcuotQOCu79iNzj5r6E9TgtgY" width="70%">
+<img src="https://drive.google.com/thumbnail?id=1zQeJSpMjcuotQOCu79iNzj5r6E9TgtgY&sz=w1000" width="70%">
 <figcaption class="figure-caption">Lápide de Jacob (aqui Jakob) no Cemitério de Conventos</figcaption>
 </figure>
 

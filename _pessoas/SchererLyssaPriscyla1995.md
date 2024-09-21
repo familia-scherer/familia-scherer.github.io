@@ -7,7 +7,7 @@ layout: pessoa
 
 **Nome Casamento:** Lyssa Priscyla Scherer Bertaglia<br/>
 **Nascimento:** 10 de maio de 1995, Umuarama, Paraná, Brasil<br/>
-**Pais:** [César Luis Scherer (1961)]({% link _pessoas/SchererCesarLuis1961.md %}) e [Sônia Roseli Scherer](){:class="underconstruction"}<br/>
+**Pais:** [César Luis Scherer (1961)]({% link _pessoas/SchererCesarLuis1961.md %}) e [Sônia Roseli Manzke](){:class="underconstruction"}<br/>
 **Casamento:** [Thales Felipe S. Bertaglia](){:class="underconstruction"}, 07 de maio de 2021, Marechal Cândido Rondon, Paraná, Brasil<br/>
 
 

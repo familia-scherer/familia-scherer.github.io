@@ -28,14 +28,14 @@ Durante sua vida, Guilherme viveu em Lajeado. Ele se casou com [Catharina Luiza 
 De acordo com a certidão de óbito, Guilherme faleceu no dia 12 de outubro de 1922 em Lajeado, RS, Brasil [1].
 
 <figure>
-<img src="https://drive.google.com/uc?id=1MXzwgWCddL8lUdptWAEZlTrYkfjQOJ_v" width="70%">
+<img src="https://drive.google.com/thumbnail?id=1MXzwgWCddL8lUdptWAEZlTrYkfjQOJ_v&sz=w1000" width="70%">
 <figcaption class="figure-caption">Certidão de Óbito de Guilherme [1]</figcaption>
 </figure>
 
 Seu túmulo se encontra no cemitério de Olarias. Ele foi enterrado junto com a sua esposa e com Edga Scherer (que eu acredito ser filha do casal, porém não possuo documentação sobre ela). A imagem da lápide pode ser vista abaixo.
 
 <figure>
-<img src="https://drive.google.com/uc?id=1YyVEgSzDlPlxkCcl1N6xZS_CFisbgZzO" width="70%">
+<img src="https://drive.google.com/thumbnail?id=1YyVEgSzDlPlxkCcl1N6xZS_CFisbgZzO&sz=w1000" width="70%">
 <figcaption class="figure-caption">Lápide de Guilherme (aqui Wilhelm) no Cemitério de Olarias</figcaption>
 </figure>
 

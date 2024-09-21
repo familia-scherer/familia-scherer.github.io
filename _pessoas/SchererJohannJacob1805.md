@@ -34,12 +34,12 @@ Faleceu em Lajeado, RS, Brasil no dia 9 de abril de 1881.<br/>
 
 
 <figure>
-  <img src="https://drive.google.com/uc?id=1Gq_2d2LiT8m9LJ8hjVWWhoOBNPrwcj8V" width="50%">
+  <img src="https://drive.google.com/thumbnail?id=1Gq_2d2LiT8m9LJ8hjVWWhoOBNPrwcj8V&sz=w1000" width="50%">
   <figcaption class="figure-caption">Túmulo de Johann Jacob Scherer e Catharina Grub visto de longe</figcaption>
 </figure>
 
 <figure>
-  <img src="https://drive.google.com/uc?id=17s6dZRBxb2lgR3EZaEsBvL0qpYGZgczV" width="50%">
+  <img src="https://drive.google.com/thumbnail?id=17s6dZRBxb2lgR3EZaEsBvL0qpYGZgczV&sz=w1000" width="50%">
   <figcaption class="figure-caption">Texto no túmulo de Johann Jacob Scherer: "<i>Ruhe Sanft - Johann Jacob Scherer geboren den 19ten December 1805 zu Schmidthachenbach Sachsen Coburg gestorben am 9ten April 1881 Colonie Conventos. Selig die im Denn Sterben denn ihre Werke folgen ihnen nach</i>". Tradução: Descanse em paz - Johann Jacob Scherer nascido em 19 de dezembro de 1805 em Schmidthachenbach Saxônia Coburgo, morreu em 9 de abril de 1881 na Colônia Conventos. Bem-aventurados os que morrem, pois as suas obras os acompanham.</figcaption>
 </figure>
 

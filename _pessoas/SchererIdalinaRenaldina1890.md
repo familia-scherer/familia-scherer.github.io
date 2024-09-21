@@ -23,7 +23,7 @@ layout: pessoa
 Idalina nasceu 12 de julho de 1890, Lajeado, Rio Grande do Sul, Brasil, filha de [Guilherme Scherer (1865 - 1922)]({% link _pessoas/SchererGuilherme1865.md %}) e [Catharina Luiza Herrmann](){:class="underconstruction"} e foi batizada 18 de novembro de 1890 na Igreja Evangélica de Conventos [1].
 
 <figure>
-<img src="https://drive.google.com/uc?id=11szRiPFNotlI2e5MYtQftFm5Q7cHtksu" width="70%">
+<img src="https://drive.google.com/thumbnail?id=11szRiPFNotlI2e5MYtQftFm5Q7cHtksu&sz=w1000" width="70%">
 <figcaption class="figure-caption">Registro de Batismo de Idalina R. Scherer - Igreja Evangélica de Conventos [1]</figcaption>
 </figure>
 
@@ -32,7 +32,7 @@ Em 5 de outubro de 1910, casou-se com [Frederico Jacob Theobaldo Scherer (1885-1
 De acordo com a certidão de óbito [3], Idalina faleceu com assistência médica em consequência de Trombose cerebral.
 Seu túmulo se encontra no cemitério de Conventos e pode ser visto na imagem abaixo.
 <figure>
-<img src="https://drive.google.com/uc?id=1szACSAil6LejhBn0yvL7wNdmB312W05X" width="70%">
+<img src="https://drive.google.com/thumbnail?id=1szACSAil6LejhBn0yvL7wNdmB312W05X&sz=w1000" width="70%">
 <figcaption class="figure-caption">Lápide de Idalina R. Scherer no Cemitério de Conventos</figcaption>
 </figure>
 

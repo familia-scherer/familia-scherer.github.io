@@ -27,7 +27,7 @@ Segundo Aurélio Porto [2], estes imigrantes representavam “a flor da coloniza
 
 
 <figure>
-  <img src="https://drive.google.com/uc?id=1kW6awGiJfl5asmeUNBIx2ingU8HhOKI1"  width="100%">
+  <img src="https://drive.google.com/thumbnail?id=1kW6awGiJfl5asmeUNBIx2ingU8HhOKI1&sz=w1000"  width="100%">
   <figcaption class="figure-caption">Figura 1 - Primeira página da lista de passageiros do navio <i>Friedrich Heinrich</i>. Transcrição: “Os Alemães que vieram espontaneamente vieram para este Império na mencionada Galera sem intervenção alguma do Major Jorge Antônio von Schäffer (Georg Anton von Schäffer), e que Sua Majestade Imperial benignamente mandou receber e tratar como os mais Colonos. Saíram de Amsterdam em 25 de Agosto do corrente ano de 1825, chegaram a esta Capital em 8 de Novembro seguinte e no outro dia tomou conta deles em virtude das Ordens de Sua Majestade Imperial o Inspector da Colonização estrangeira nesta província . Pedro Machado de Miranda Malheiro”</figcaption>
 </figure>
 
@@ -42,7 +42,7 @@ Entre os passageiros do *Friedrich Heinrich*, encontravam-se Johannes Scherer e 
 
 
 <figure>
-  <img src="https://drive.google.com/uc?id=1TwCSqHeHEe8LL5iU7HErss_P0fcbs2mY">
+  <img src="https://drive.google.com/thumbnail?id=1TwCSqHeHEe8LL5iU7HErss_P0fcbs2mY&sz=w1000">
   <figcaption class="figure-caption">Figura 2 - Parte da Lista de Passageiros do navio <i>Friedrich Heinrich</i>, onde consta a entrada da família Scherer</figcaption>
 </figure>
 
@@ -72,7 +72,7 @@ Johannes e sua família estavam na décima leva, mais precisamente, a família v
 
 Encontramos o aviso do governo, que informa sobre o envio dos 3 barcos (*Galvão*, Delfina e Protector) e repassando a lista de passageiros. Parte do aviso pode ser visto na figura abaixo, este é o trecho escrito antes da lista de passageiros do bragantim-escuna *Galvão*.
 <figure>
-  <img src="https://drive.google.com/uc?id=1bMRs12Ugmw4oaoFMe8_ajyfhPFPUX0hc"  width="70%">
+  <img src="https://drive.google.com/thumbnail?id=1bMRs12Ugmw4oaoFMe8_ajyfhPFPUX0hc&sz=w1000"  width="70%">
   <figcaption class="figure-caption"  >Figura 3 - Sua Majestade o imperador ha por bem ordenar que Vossa Excelência, logo que chegar a esse porto o Bragantim Escuna <i>Galvão</i>, que desta corte se dirija a cidade de Porto Alegre, expressa as ordens necessárias não só para o desembarque e recepção dos colonos Alemães, que ele transporta, nomeados na relação, que lhe apresentar o mestre do referido Bragantim, assinada por Monsenhor Miranda, ou pela pessoa a quem me der comissão para esse fim; mas também para o pagamento do respectivo frete, na conformidade do contrato celebrado entre o proprietário e o sobredito Monsenhor. A que participo a Vossa Excelência para sua inteligência e execução. Deus guarde a Vossa Excelência, Palácio do Rio de Janeiro em 28 de Novembro de 1825 - Visconde de Barbacena</figcaption>
 </figure>
 
@@ -80,7 +80,7 @@ Encontramos o aviso do governo, que informa sobre o envio dos 3 barcos (*Galvão
 Infelizmente, o registro da família de Johannes na lista de passageiros está rasgada e em duas folhas, por isso fiz uma montagem com as partes do registro, que pode ser visto na figura abaixo.
 
 <figure>
-  <img src="https://drive.google.com/uc?id=1b0K919B9IwzK5kmBRfM-oiJN9k5K2MTq"  width="100%">
+  <img src="https://drive.google.com/thumbnail?id=1b0K919B9IwzK5kmBRfM-oiJN9k5K2MTq&sz=w1000"  width="100%">
   <figcaption class="figure-caption">Figura 4 - Entrada da família de Johannes Scherer na lista de passageiros presente no aviso do governo datado no dia 28 de novembro de 1825.</figcaption>
 </figure>
 
@@ -100,7 +100,7 @@ O aviso do governo, na íntegra, está disponível em [4] para visualização.
 
 Todos os imigrantes deste período que chegaram a São Leopoldo, eram registrados em uma lista escrita cuidadosamente por  Dr. Daniel Hillebrand. Essa lista, conhecida por Codice C333, contém o registro dos  7.465 imigrantes chegados a São Leopoldo no período de 1824 a 1853, em ordem cronológica. A Figura 5 mostra o registro de entrada de Johannes e sua família sob a data de 29 de dezembro de 1825.
 <figure>
-  <img src="https://drive.google.com/uc?id=1XWb4OCSA39qPwZFuf95Q2-5fc88Ziyck"  width="50%">
+  <img src="https://drive.google.com/thumbnail?id=1XWb4OCSA39qPwZFuf95Q2-5fc88Ziyck&sz=w1000"  width="50%">
   <figcaption class="figure-caption">Figura 5 - Registro de entrada de Johannes e família no Códice C333 escrito por Hillebrand.</figcaption>
 </figure>
 
