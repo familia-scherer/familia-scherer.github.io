@@ -1,16 +1,16 @@
 ---
 title: "César Luis Scherer (1961)"
-data: 23/04/2023
+data: 07/01/2025
 nome: César Luis Scherer
 layout: pessoa
 ---
 
 **Nascimento:** 16 de julho de 1961, Lajeado, Rio Grande do Sul, Brasil <br/>
-**Pais:** [Arthur Astor Scherer (1939-2022)]({% link _pessoas/SchererArthurAstor1939.md %}) e [Araci Eckhardt](){:class="underconstruction"}<br/>
-**Casamento:** [Sônia Roseli Manzke](){:class="underconstruction"}, 31 de maio de 1986, Marechal Cândido Rondon, Paraná, Brasil<br/>
-**2 Filhos:** <br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1. [Sally Karina Scherer](){:class="underconstruction"}<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2. [Lyssa Priscyla Scherer]({% link _pessoas/SchererLyssaPriscyla1995.md %})<br/>
+**Pais:** [Arthur Astor Scherer (1939-2022)]({% link _pessoas/SchererArthurAstor1939.md %}) e [Araci Eckhardt (1941-2000)](){:class="underconstruction"}<br/>
+**Casamento:** [Sônia Roseli Manzke (1961)](){:class="underconstruction"}, 31 de maio de 1986, Marechal Cândido Rondon, Paraná, Brasil<br/>
+**Filhos:** <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1. [Sally Karina Scherer (1993)]({% link _pessoas/SchererSallyKarina1993.md %})<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2. [Lyssa Priscyla Scherer (1995)]({% link _pessoas/SchererLyssaPriscyla1995.md %})<br/>
 
 
 ## Vida:
@@ -24,7 +24,7 @@ César Luis Scherer nasceu 16 julho 1961 em Lajeado, RS, Brasil, filho de [Arthu
 
 Em 24 de julho de 1964, com 03 anos, ele veio com sua família morar em Santa Helena, PR, Brasil e mais tarde, mudou-se para Marechal Cândido Rondon, PR, Brasil para estudar Ciências Contábeis (1981-1984).
 
-Em 31 de maio de 1986, César se casou com [Sônia R. M. Scherer (Manzke)](){:class="underconstruction"} em Marechal Cândido Rondon. Eles tiveram duas filhas: [Sally Karina Scherer](){:class="underconstruction"} e [Lyssa Priscyla Scherer]({% link _pessoas/SchererLyssaPriscyla1995.md %}).
+Em 31 de maio de 1986, César se casou com [Sônia Roseli Manzke](){:class="underconstruction"} em Marechal Cândido Rondon. Eles tiveram duas filhas: [Sally Karina Scherer]({% link _pessoas/SchererSallyKarina1993.md %}) e [Lyssa Priscyla Scherer]({% link _pessoas/SchererLyssaPriscyla1995.md %}).
 
 <figure>
 <img src="https://drive.google.com/thumbnail?id=1oNGTnR-O6xTT4ZNg_dRJZsDYdl6PduYl&sz=w1000" width="50%">

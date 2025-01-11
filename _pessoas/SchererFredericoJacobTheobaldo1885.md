@@ -11,12 +11,12 @@ layout: pessoa
 **Pais:** [Pedro Scherer (1841-1917)]({% link _pessoas/SchererPeter1841.md %}) e [Elisabetha Schneider](){:class="underconstruction"} [1][2]<br/>
 **Casamento:** [Idalina Renaldina Scherer]({% link _pessoas/SchererIdalinaRenaldina1890.md %}) , 5 de outubro de 1910, Lajeado, Rio Grande do Sul, Brasil [1]<br/>
 **Profissão:** Agricultor<br/>
-**5 Filhos:** <br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1. [Norminda Hagemann (Scherer)](){:class="underconstruction"} [2]<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2. [Raimundo Beno Scherer](){:class="underconstruction"} [2]<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3. [Norberto Edgar Scherer]({% link _pessoas/SchererNorbertoEdgar1914.md %}) [2]<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 4. [Olinda Gauer (Scherer)](){:class="underconstruction"} [2]<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 5. [Arnoldo Alfredo Scherer](){:class="underconstruction"} [2]<br/>
+**Filhos:** <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1. [Norminda Scherer (1911-1985)](){:class="underconstruction"} [2]<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2. [Raymundo Benno Scherer (1913-????)](){:class="underconstruction"} [2]<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3. [Norberto Edgar Scherer (1914-1986)]({% link _pessoas/SchererNorbertoEdgar1914.md %}) [2]<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 4. [Olinda Scherer (1917-1984)](){:class="underconstruction"} [2]<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 5. [Arnoldo Alfredo Scherer (1920-1991)](){:class="underconstruction"} [2]<br/>
 
 
 
@@ -59,7 +59,7 @@ Seu túmulo se encontra no cemitério de conventos, a imagem da sua lápide pode
 
 ## Referências:
 
-[1] Certidão de Casamento Frederico J. T. Scherer e Idalina Bernardina Scherer. Disponível em: [https://drive.google.com/file/d/1RwAs9Zp7lbqYcjubCp_Mnbgj8Ib0KJme/view?usp=sharing](https://drive.google.com/file/d/1RwAs9Zp7lbqYcjubCp_Mnbgj8Ib0KJme/view?usp=sharing). Acesso em: 09 maio 2021.
+[1] Certidão de Casamento Frederico J. T. Scherer e Idalina Rernaldina Scherer. Disponível em: [https://drive.google.com/file/d/1RwAs9Zp7lbqYcjubCp_Mnbgj8Ib0KJme/view?usp=sharing](https://drive.google.com/file/d/1RwAs9Zp7lbqYcjubCp_Mnbgj8Ib0KJme/view?usp=sharing). Acesso em: 09 maio 2021.
 
 [2] Certidão de óbito de Frederico J. T. Scherer. FamilySearch - Registros Civis Lajeado Óbitos vol. C11-C19 e 1-3, Jan/1943 - Abr/1981. Disponível em: [https://www.familysearch.org/ark:/61903/3:1:3QS7-89GW-S9Z4?cat=58014](https://www.familysearch.org/ark:/61903/3:1:3QS7-89GW-S9Z4?cat=58014). Acesso em: 09 maio 2021.
 
