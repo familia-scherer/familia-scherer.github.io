@@ -9,8 +9,8 @@ layout: pessoa
 **Morte:** 13 de janeiro de 2022, Marechal Cândido Rondon, Paraná, Brasil [4]<br/>
 **Sepultamento:** Cemitério Municipal de Marechal Cândido Rondon [4]<br/>
 **Nome Alternativo:** Astor<br/>
-**Pais:** [Norberto Edgar Scherer]({% link _pessoas/SchererNorbertoEdgar1914.md %}) e [Elvira Quinot (1914-1993)](){:class="underconstruction"} [1, 2, 4]<br/>
-**Casamento:** [Araci Eckhardt](){:class="underconstruction"}, 20 de agosto de 1960, Lajeado, Rio Grande do Sul, Brasil [4]<br/>
+**Pais:** [Norberto Edgar Scherer (1914-1986)]({% link _pessoas/SchererNorbertoEdgar1914.md %}) e [Elvira Quinot (1914-1993)](){:class="underconstruction"} [1, 2, 4]<br/>
+**Casamento:** [Araci Eckhardt (1941-2000)](){:class="underconstruction"}, 20 de agosto de 1960, Lajeado, Rio Grande do Sul, Brasil [4]<br/>
 **Filhos:** <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1. [César Luis Scherer (1961)]({% link _pessoas/SchererCesarLuis1961.md %})<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2. [Izolete Deli Scherer (1971)]({% link _pessoas/SchererIzoleteDeli1971.md %})<br/>

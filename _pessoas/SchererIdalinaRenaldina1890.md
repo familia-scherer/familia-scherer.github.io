@@ -10,7 +10,7 @@ layout: pessoa
 **Morte:** 03 de abril de 1973, Lajeado, Rio Grande do Sul, Brasil<br/>
 **Sepultamento:** Cemitério de Conventos, Lajeado, Rio Grande do Sul, Brasil <br/>
 **Nome Alternativo:** Idalina Rernaldina Scherer<br/>
-**Pais:** [Guilherme Scherer (1865 - 1922)]({% link _pessoas/SchererGuilherme1865.md %}) e [Catharina Luiza Herrmann](){:class="underconstruction"} [1][2]<br/>
+**Pais:** [Guilherme Scherer (1865 - 1922)]({% link _pessoas/SchererGuilherme1865.md %}) e [Catharina Luiza Herrmann (1864-1935)](){:class="underconstruction"} [1][2]<br/>
 **Casamento:** [Frederico Jacob Theobaldo Scherer (1885-1948)]({% link _pessoas/SchererFredericoJacobTheobaldo1885.md %}), 5 de outubro de 1910, Lajeado, RS, Brasil<br/>
 **5 Filhos:**<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1. [Norminda Scherer (1911-1985)](){:class="underconstruction"} [3]<br/>
@@ -21,7 +21,7 @@ layout: pessoa
 
 
 ## Vida:
-Idalina nasceu 12 de julho de 1890, Lajeado, Rio Grande do Sul, Brasil, filha de [Guilherme Scherer (1865 - 1922)]({% link _pessoas/SchererGuilherme1865.md %}) e [Catharina Luiza Herrmann](){:class="underconstruction"} e foi batizada 18 de novembro de 1890 na Igreja Evangélica de Conventos [1].
+Idalina nasceu 12 de julho de 1890, Lajeado, Rio Grande do Sul, Brasil, filha de [Guilherme Scherer]({% link _pessoas/SchererGuilherme1865.md %}) e [Catharina Luiza Herrmann](){:class="underconstruction"} e foi batizada 18 de novembro de 1890 na Igreja Evangélica de Conventos [1].
 
 <figure>
 <img src="https://drive.google.com/thumbnail?id=11szRiPFNotlI2e5MYtQftFm5Q7cHtksu&sz=w1000" width="70%">
