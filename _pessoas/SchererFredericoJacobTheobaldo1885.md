@@ -12,11 +12,11 @@ layout: pessoa
 **Casamento:** [Idalina Renaldina Scherer]({% link _pessoas/SchererIdalinaRenaldina1890.md %}) , 5 de outubro de 1910, Lajeado, Rio Grande do Sul, Brasil [1]<br/>
 **Profissão:** Agricultor<br/>
 **Filhos:** <br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1. [Norminda Scherer (1911-1985)](){:class="underconstruction"} [2]<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2. [Raymundo Benno Scherer (1913-????)](){:class="underconstruction"} [2]<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1. [Norminda Scherer (1911-1985)]({% link _pessoas/SchererNorminda1911.md %}) [2]<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2. [Raymundo Benno Scherer (1913-????)]({% link _pessoas/SchererRaymundoBenno1913.md %}) [2]<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3. [Norberto Edgar Scherer (1914-1986)]({% link _pessoas/SchererNorbertoEdgar1914.md %}) [2]<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 4. [Olinda Scherer (1917-1984)](){:class="underconstruction"} [2]<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 5. [Arnoldo Alfredo Scherer (1920-1991)](){:class="underconstruction"} [2]<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 4. [Olinda Scherer (1917-1984)]({% link _pessoas/SchererOlinda1917.md %}) [2]<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 5. [Arnoldo Alfredo Scherer (1920-1991)]({% link _pessoas/SchererArnoldoAlfredo1920.md %}) [2]<br/>
 
 
 
