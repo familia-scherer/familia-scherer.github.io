@@ -13,7 +13,7 @@ layout: pessoa
 **Profissão:** Agricultor<br/>
 **Filhos:** <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1. [Norminda Scherer (1911-1985)]({% link _pessoas/SchererNorminda1911.md %}) [2]<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2. [Raymundo Benno Scherer (1913-????)]({% link _pessoas/SchererRaymundoBenno1913.md %}) [2]<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2. [Raymundo Benno Scherer (1913-1979)]({% link _pessoas/SchererRaymundoBenno1913.md %}) [2]<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3. [Norberto Edgar Scherer (1914-1986)]({% link _pessoas/SchererNorbertoEdgar1914.md %}) [2]<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 4. [Olinda Scherer (1917-1984)]({% link _pessoas/SchererOlinda1917.md %}) [2]<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 5. [Arnoldo Alfredo Scherer (1920-1991)]({% link _pessoas/SchererArnoldoAlfredo1920.md %}) [2]<br/>

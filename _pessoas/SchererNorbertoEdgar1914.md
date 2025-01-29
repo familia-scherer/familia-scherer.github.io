@@ -12,7 +12,7 @@ layout: pessoa
 **Pais:** [Frederico Jacob Theobaldo Scherer (1885-1948)]({% link _pessoas/SchererFredericoJacobTheobaldo1885.md %}) e [Idalina Renaldina Scherer (1890-1973)]({% link _pessoas/SchererIdalinaRenaldina1890.md %}) [1][2]<br/>
 **Casamento:** [Elvira Quinot (1914-1993)](){:class="underconstruction"}, 18 de dezembro de 1937, Lajeado, Rio Grande do Sul, Brasil [1]<br/>
 **Filhos:** <br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1. [Alcirio Silvério Scherer (1938)](){:class="underconstruction"} [2]<br/> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1. [Alcirio Silvério Scherer (1938)]({% link _pessoas/SchererAlcírioSilvério1938.md %})  [2]<br/> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2. [Arthur Astor Scherer (1939-2022)]({% link _pessoas/SchererArthurAstor1939.md %}) [2]<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3. [Glaci Scherer (???? - ????)](){:class="underconstruction"} [2]<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 4. [Nair Scherer (????)](){:class="underconstruction"} [2]<br/>
