@@ -5,9 +5,11 @@ nome: Alcírio Silvério Scherer
 layout: pessoa
 ---
 
-**Nascimento:** 15 de setembro de 1938 [2] [1], Picada Conventos, Lajeado, Rio Grande do Sul, Brasil [1]<br/>
+**Nascimento:** 15 de setembro de 1938, Picada Conventos, Lajeado, Rio Grande do Sul, Brasil [1]<br/>
 **Nome Alternativo:** Alcírio Silvério Scherer [2]<br/>
 **Pais:** [Norberto Edgar Scherer (1914-1986)]({% link _pessoas/SchererNorbertoEdgar1914.md %}) e [Elvira Quinot (1914-1993)](){:class="underconstruction"} [1]<br/>
+**Avós Paternos:** [Frederico Jacob Theobaldo Scherer (1885-1948)]({% link _pessoas/SchererFredericoJacobTheobaldo1885.md %}) e [Idalina Renaldina Scherer (1890-1973)]({% link _pessoas/SchererIdalinaRenaldina1890.md %}) [1]<br/>
+**Avós Maternos:** [João Henrique Quinot (1892-1968)](){:class="underconstruction"} e [Leopoldina Mayer (1894-????)](){:class="underconstruction"} [1]<br/>
 **Casamento:** [Irena Rieth (1934-1983)](){:class="underconstruction"}, 31 de outubro de 1957, Lajeado, Rio Grande do Sul, Brasil [2]<br/>
 **Filhos:**<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. [Clair Scherer](){:class="underconstruction"} [3]<br/>
@@ -41,6 +43,5 @@ Atualmente Alcírio vive em Forquetinha (RS).
 [1] Registro de Nascimento - Civil. Lajeado Livro A-43, Folha 66v, Num. 98. Disponível em: [https://www.familysearch.org/ark:/61903/3:1:3QHV-L3JW-Y5S?cat=2061726&i=195&cc=3741255](https://www.familysearch.org/ark:/61903/3:1:3QHV-L3JW-Y5S?cat=2061726&i=195&cc=3741255). Acesso em: 29 janeiro 2025.
 
 [2] Registro de Casamento - Civil. Lajeado Livro B-18, Folha 151v, Num. 1629. Disponível em: [https://www.familysearch.org/ark:/61903/3:1:3QHV-L3JW-Y6JV?i=119](https://www.familysearch.org/ark:/61903/3:1:3QHV-L3JW-Y6JV?i=119). Acesso em: 29 janeiro 2025.
-
 
 [3] Registro de Óbito da esposa [Irena Rieth](){:class="underconstruction"} - Civil. Porto Alegre Livro C-38, Num. 22493. Disponível em: [https://www.familysearch.org/ark:/61903/3:1:3QS7-89L5-799B-Y?view=index&action=view&cc=3741255&groupId=M98G-9ZW](https://www.familysearch.org/ark:/61903/3:1:3QS7-89L5-799B-Y?view=index&action=view&cc=3741255&groupId=M98G-9ZW). Acesso em: 29 janeiro 2025.

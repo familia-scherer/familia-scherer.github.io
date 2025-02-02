@@ -11,6 +11,8 @@ layout: pessoa
 **Batismo:** 19 de novembro de 1947, Conventos, Lajeado, Rio Grande do Sul, Brasil [5]<br/>
 **Nome Alternativo:** Irio, Hildo Irio [1, 2, 3, 4], Irio Ildo [5]<br/>
 **Pais:** [Norberto Edgar Scherer (1914-1986)]({% link _pessoas/SchererNorbertoEdgar1914.md %}) e [Elvira Quinot (1914-1993)](){:class="underconstruction"} [1,4, 5]<br/>
+**Avós Paternos:** [Frederico Jacob Theobaldo Scherer (1885-1948)]({% link _pessoas/SchererFredericoJacobTheobaldo1885.md %}) e [Idalina Renaldina Scherer (1890-1973)]({% link _pessoas/SchererIdalinaRenaldina1890.md %}) [1]<br/>
+**Avós Maternos:** [João Henrique Quinot (1892-1968)](){:class="underconstruction"} e [Leopoldina Mayer (1894-????)](){:class="underconstruction"} [1]<br/>
 **Casamento:** [Célia Maria de Liz](){:class="underconstruction"}, 24 de julho de 1971, Marmeleiro, Paraná, Brasil [3]<br/>
 **Filhos:**<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. [Cristiano Augusto Scherer (1973-2015)](){:class="underconstruction"} [1, 2]<br/>
