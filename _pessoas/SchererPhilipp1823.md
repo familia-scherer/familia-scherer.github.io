@@ -5,7 +5,7 @@ nome: Philipp Scherer
 layout: pessoa
 ---
 
-**Nascimento:** 1822 [2] ou 1823 [1], [Schmidthachenbach, Birkenfeld, Rheinland-Pfalz, Alemanha]({% link _lugares/Schmidthachenbach.md %})<br/>
+**Nascimento:** 1822 [[2]](#refs){:class="ref"} ou 1823 [[1]](#refs){:class="ref"}, [Schmidthachenbach, Birkenfeld, Rheinland-Pfalz, Alemanha]({% link _lugares/Schmidthachenbach.md %})<br/>
 **Nome Alternativo**: Felippe<br/>
 **Pais:** [Johannes Scherer (1769-1850)]({% link _pessoas/SchererJohannes1769.md %}) e [Maria Cristina Elisabeta Jacoby]({% link _pessoas/JacobyMariaCristinaElisabeta1786.md %})<br/>
 
@@ -13,7 +13,7 @@ layout: pessoa
 
 Filho de [Johannes Scherer (1769-1850)]({% link _pessoas/SchererJohannes1769.md %}) e [Maria Cristina Elisabeta Jacoby]({% link _pessoas/JacobyMariaCristinaElisabeta1786.md %}). Veio ao Brasil junto com sua família (ver mais em [Imigração]({% link _services/imigracao.md %})).
 
-Encontrei um registro de batismo que acredito ser dele em [2], reescrevi ele abaixo:
+Encontrei um registro de batismo que acredito ser dele em [[2]](#refs){:class="ref"}, reescrevi ele abaixo:
 
 <div class="summary quote" markdown="1">
  ### pg 29 1822<br>
@@ -30,7 +30,8 @@ sada
 De acordo com este registro, Philipp teria nascido em 12 de novembro de 1822 e teria sido batizado em 18 de novembro de 1822, filho de [Johannes Scherer]({% link _pessoas/SchererJohannes1769.md %}) de Schmidthachenbach e [M Christina nascida Jackoby]({% link _pessoas/JacobyMariaCristinaElisabeta1786.md %}). Os nomes restantes são referentes aos padrinhos de batismo de Philipp.
 
 
-## Referências:
+
+## Referências: {#refs}
 
 [1] ROSA, Gilson Justino da. Imigrantes Alemães: 1824-1853. Porto Alegre: Est Edições, 2005.
 

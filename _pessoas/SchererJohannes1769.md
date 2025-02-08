@@ -5,13 +5,13 @@ nome: Johannes Scherer
 layout: pessoa
 ---
 
-**Nascimento:**  27 de setembro de 1769, [Schmidthachenbach, Birkenfeld, Rheinland-Pfalz, Alemanha]({% link _lugares/Schmidthachenbach.md %}) [1][2]<br/>
-**Batismo:** 01 de outubro de 1769 [1]<br/>
-**Morte:** 11 de abril de 1850, Estância Velha, Rio Grande do Sul, Brasil [2]<br/>
+**Nascimento:**  27 de setembro de 1769, [Schmidthachenbach, Birkenfeld, Rheinland-Pfalz, Alemanha]({% link _lugares/Schmidthachenbach.md %}) [[1]](#refs){:class="ref"}[[2]](#refs){:class="ref"}<br/>
+**Batismo:** 01 de outubro de 1769 [[1]](#refs){:class="ref"}<br/>
+**Morte:** 11 de abril de 1850, Estância Velha, Rio Grande do Sul, Brasil [[2]](#refs){:class="ref"}<br/>
 **Nomes Alternativos:** João Scherer<br/>
-**Pais:** [Conradt Scherer]({% link _pessoas/SchererConradt.md %}) e [Maria Magdalena Scherer]({% link _pessoas/SchererMariaMagdalena.md %}) [1]<br/>
+**Pais:** [Conradt Scherer]({% link _pessoas/SchererConradt.md %}) e [Maria Magdalena Scherer]({% link _pessoas/SchererMariaMagdalena.md %}) [[1]](#refs){:class="ref"}<br/>
 **1. Casamento:** Desconhecida<br/>
-**2. Casamento:** [Maria Cristina Elisabeta Jacoby]({% link _pessoas/JacobyMariaCristinaElisabeta1786.md %}) [2]<br/>
+**2. Casamento:** [Maria Cristina Elisabeta Jacoby]({% link _pessoas/JacobyMariaCristinaElisabeta1786.md %}) [[2]](#refs){:class="ref"}<br/>
 **6 Filhos:**<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. [Johann Jacob Scherer (1805-1881)]({% link _pessoas/SchererJohannJacob1805.md %}) (1° casamento)<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. [Conrad Scherer (1811-?)]({% link _pessoas/SchererConrad1811.md %})<br/>
@@ -28,7 +28,7 @@ Johannes Scherer, evangélico, nasceu 27 de setembro de 1769 em [Schmidthachenba
 
 <figure>
   <img src="https://drive.google.com/thumbnail?id=17Pl-ZkGkggF4l_mM_S-YtH95pz16h--X&sz=w1000" width="100%">
-  <figcaption class="figure-caption">Certidao de Batizmo de Johannes Scherer realizado em 01 de outubro de 1769 em Becherbach, Pflaz, Bavaria [1]</figcaption>
+  <figcaption class="figure-caption">Certidao de Batizmo de Johannes Scherer realizado em 01 de outubro de 1769 em Becherbach, Pflaz, Bavaria [[1]](#refs){:class="ref"}</figcaption>
 </figure>
 
 
@@ -40,7 +40,8 @@ Em 25 de agosto de 1825, em Amsterdam, ele e sua familia embarcaram no Navio *Fr
 Johannes faleceu 11 de abril de 1850 em Estância Velha, Rio Grande do Sul, Brasil.
 
 
-## Referências:
+
+## Referências: {#refs}
 
 [1] Certidao de Batizmo de Johannes Scherer (ultima entrada da página). FamilySearch. Disponivel em: [https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSJB-Z9N4-5](https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSJB-Z9N4-5). Acesso em: 29 abr. 2021.
 

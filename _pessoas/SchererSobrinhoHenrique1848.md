@@ -5,21 +5,22 @@ nome: Henrique Scherer Sobrinho
 layout: pessoa
 ---
 
-**Nascimento:** aprox. 1848, Picada Bom Jardim, São Leopoldo, Rio Grande do Sul, Brasil [1]<br/>
-**Nome Alternativo:** Henrique Scherer [1]<br/>
-**Pais:** [Johann Philipp Scherer (1820-????)](){:class="underconstruction"} e [Maria Catharina Scherer (1826-????)]({% link _pessoas/SchererMariaCatharina1826.md %}) [1]<br/>
-**Casamento:** [Maria Scherer (1850-????)](){:class="underconstruction"}, 21 de maio de 1873, Santa Maria, Rio Grande do Sul, Brasil [1]<br/>
+**Nascimento:** aprox. 1848, Picada Bom Jardim, São Leopoldo, Rio Grande do Sul, Brasil [[1]](#refs){:class="ref"}<br/>
+**Nome Alternativo:** Henrique Scherer [[1]](#refs){:class="ref"}<br/>
+**Pais:** [Johann Philipp Scherer (1820-????)](){:class="underconstruction"} e [Maria Catharina Scherer (1826-????)]({% link _pessoas/SchererMariaCatharina1826.md %}) [[1]](#refs){:class="ref"}<br/>
+**Casamento:** [Maria Scherer (1850-????)](){:class="underconstruction"}, 21 de maio de 1873, Santa Maria, Rio Grande do Sul, Brasil [[1]](#refs){:class="ref"}<br/>
 **Filhos:**<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. [João Reynaldo Scherer (1876-1946)]({% link _pessoas/SchererJoãoReynaldo1876.md %}) [2]<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. [Maria Reinaldina (1879-????)](){:class="underconstruction"} [3]<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3. [Octacilia Scherer](){:class="underconstruction"} [3]<br/>
-**Profissão:** Sapateiro [1]<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. [João Reynaldo Scherer (1876-1946)]({% link _pessoas/SchererJoãoReynaldo1876.md %}) [[2]](#refs){:class="ref"}<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. [Maria Reinaldina (1879-????)](){:class="underconstruction"} [[3]](#refs){:class="ref"}<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3. [Octacilia Scherer](){:class="underconstruction"} [[3]](#refs){:class="ref"}<br/>
+**Profissão:** Sapateiro [[1]](#refs){:class="ref"}<br/>
 
 ## Vida:
 
-Casou com 25 anos de idade [1]
+Casou com 25 anos de idade [[1]](#refs){:class="ref"}
 
-## Referências:
+
+## Referências: {#refs}
 
 [1] [Certidão de Casamento de Henrique Scherer Sobrinho e Maria Scherer](https://www.familysearch.org/ark:/61903/3:1:3QS7-89L8-X2PY)
 

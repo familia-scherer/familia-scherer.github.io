@@ -5,15 +5,15 @@ nome: Arnoldo Alfredo Scherer
 layout: pessoa
 ---
 
-**Nascimento:** 12 de fevereiro de 1920, Lajeado, Rio Grande do Sul, Brasil [1]<br/>
-**Morte:** 19 de março de 1991, Lajeado, Rio Grande do Sul, Brasil, 71 anos [3]<br/>
-**Sepultamento:** Cemitério de Conventos [4]<br/>
-**Nome Alternativo:** Alfred (apelido), Arnoldo Alfredo Scherer [1, 2, 3, 4]<br/>
-**Pais:** [Frederico Jacob Theobaldo Scherer (1885-1948)]({% link _pessoas/SchererFredericoJacobTheobaldo1885.md %}) e [Idalina Renaldina Scherer (1890-1973)]({% link _pessoas/SchererIdalinaRenaldina1890.md %}) [1, 2, 3]<br/>
-**Casamento:** [Julita Storck (1919-2009)](){:class="underconstruction"}, 22 de julho de 1942, Lajeado, Rio Grande do Sul, Brasil, 22 anos [2]<br/>
+**Nascimento:** 12 de fevereiro de 1920, Lajeado, Rio Grande do Sul, Brasil [[1]](#refs){:class="ref"}<br/>
+**Morte:** 19 de março de 1991, Lajeado, Rio Grande do Sul, Brasil, 71 anos [[3]](#refs){:class="ref"}<br/>
+**Sepultamento:** Cemitério de Conventos [[4]](#refs){:class="ref"}<br/>
+**Nome Alternativo:** Alfred (apelido), Arnoldo Alfredo Scherer [[1, 2, 3, 4]](#refs){:class="ref"}<br/>
+**Pais:** [Frederico Jacob Theobaldo Scherer (1885-1948)]({% link _pessoas/SchererFredericoJacobTheobaldo1885.md %}) e [Idalina Renaldina Scherer (1890-1973)]({% link _pessoas/SchererIdalinaRenaldina1890.md %}) [[1, 2, 3]](#refs){:class="ref"}<br/>
+**Casamento:** [Julita Storck (1919-2009)](){:class="underconstruction"}, 22 de julho de 1942, Lajeado, Rio Grande do Sul, Brasil, 22 anos [[2]](#refs){:class="ref"}<br/>
 **Filhos:**<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. [Silverio Gastão Scherer](){:class="underconstruction"}<br/>
-**Profissão:** agricultor ([César Scherer]({% link _pessoas/SchererCesarLuis1961.md %})), aposentado [3]<br/>
+**Profissão:** agricultor ([César Scherer]({% link _pessoas/SchererCesarLuis1961.md %})), aposentado [[3]](#refs){:class="ref"}<br/>
 
 ## Vida:
 Arnoldo Alfredo Scherer nasceu no dia 12 de fevereiro de 1920 em Lajeado (RS), quinto filho de [Frederico Jacob Theobaldo Scherer]({% link _pessoas/SchererFredericoJacobTheobaldo1885.md %}) e [Idalina Renaldina Scherer]({% link _pessoas/SchererIdalinaRenaldina1890.md %}).
@@ -25,7 +25,7 @@ Durante sua vida, residiu em Conventos, Lajeado (RS).
 Alfredo faleceu em 19 de março de 1991 em Lajeado (RS) com 71 anos de idade.
 
 
-## Referências:
+## Referências: {#refs} 
 
 [1] Registro de Nascimento - Civil. Lajeado Livro A-33, Folha 87, Num. 44. Disponível em: [https://www.familysearch.org/ark:/61903/3:1:3QS7-89L5-3BKK?cat=58014&i=1645](https://www.familysearch.org/ark:/61903/3:1:3QS7-89L5-3BKK?cat=58014&i=1645). Acesso em: 27 janeiro 2025.
 

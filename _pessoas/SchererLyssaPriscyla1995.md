@@ -5,10 +5,10 @@ nome: Lyssa Priscyla Scherer
 layout: pessoa
 ---
 
-**Nome Casamento:** Lyssa Priscyla Scherer Bertaglia [2]<br/>
-**Nascimento:** 10 de maio de 1995, Umuarama, Paraná, Brasil [1]<br/>
-**Pais:** [César Luis Scherer (1961)]({% link _pessoas/SchererCesarLuis1961.md %}) e [Sônia Roseli Manzke (1961)](){:class="underconstruction"} [1,2]<br/>
-**Casamento:** [Thales Felipe Costa Bertaglia](){:class="underconstruction"}, 07 de maio de 2021, Marechal Cândido Rondon, Paraná, Brasil [2]<br/>
+**Nome Casamento:** Lyssa Priscyla Scherer Bertaglia [[2]](#refs){:class="ref"}<br/>
+**Nascimento:** 10 de maio de 1995, Umuarama, Paraná, Brasil [[1]](#refs){:class="ref"}<br/>
+**Pais:** [César Luis Scherer (1961)]({% link _pessoas/SchererCesarLuis1961.md %}) e [Sônia Roseli Manzke (1961)](){:class="underconstruction"} [[1,2]](#refs){:class="ref"}<br/>
+**Casamento:** [Thales Felipe Costa Bertaglia](){:class="underconstruction"}, 07 de maio de 2021, Marechal Cândido Rondon, Paraná, Brasil [[2]](#refs){:class="ref"}<br/>
 
 
 ## Vida:
@@ -23,7 +23,8 @@ Em 07 de maio de 2021, Lyssa se casou com [Thales Felipe Costa Bertaglia](){:cla
 
 Em 2022 se mudou para Maastricht, na Holanda onde vive atualmente com seu marido.
 
-## Referências:
+
+## Referências: {#refs}
 
 [1] Certidão de Nascimento: entrar em contato
 

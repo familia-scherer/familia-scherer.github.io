@@ -5,18 +5,18 @@ nome: Balduino Edmundo Scherer
 layout: pessoa
 ---
 
-**Nascimento:** 24 de março de 1902, Rio Grande do Sul, Brasil [1]<br/>
-**Morte:** 25 de abril de 1981, Arroio do Meio, Lajeado [2]<br/>
-**Sepultamento:** Cemitério Evangélico de Forqueta [2]<br/>
-**Pais:** [Jacob Augusto Scherer (1870-1933)]({% link _pessoas/SchererJacobAugusto1870.md %}) e [Rosina Fuchs](){:class="underconstruction"} [1, 2]<br/>
-**1. Casamento:** [Adalina Renaldina Werner](){:class="underconstruction"} [1, 2]<br/>
-**2. Casamento:** [Eleonor Emilia Gisch(????-1994)](){:class="underconstruction"}, 25 de julho de 1945, Lajeado, Rio Grande do Sul, Brasil [2]<br/>
+**Nascimento:** 24 de março de 1902, Rio Grande do Sul, Brasil [[1]](#refs){:class="ref"}<br/>
+**Morte:** 25 de abril de 1981, Arroio do Meio, Lajeado [[2]](#refs){:class="ref"}<br/>
+**Sepultamento:** Cemitério Evangélico de Forqueta [[2]](#refs){:class="ref"}<br/>
+**Pais:** [Jacob Augusto Scherer (1870-1933)]({% link _pessoas/SchererJacobAugusto1870.md %}) e [Rosina Fuchs](){:class="underconstruction"} [[1, 2]](#refs){:class="ref"}<br/>
+**1. Casamento:** [Adalina Renaldina Werner](){:class="underconstruction"} [[1, 2]](#refs){:class="ref"}<br/>
+**2. Casamento:** [Eleonor Emilia Gisch(????-1994)](){:class="underconstruction"}, 25 de julho de 1945, Lajeado, Rio Grande do Sul, Brasil [[2]](#refs){:class="ref"}<br/>
 **3 Filhos:**<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. [Irineu Scherer (1. Casamento)](){:class="underconstruction"} [2]<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. [Rudi Scherer (1. Casamento)]({% link _pessoas/SchererRudi1941.md %}) [2]<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3. [Lari(?) Appel (2. Casamento)](){:class="underconstruction"} [2]<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. [Irineu Scherer (1. Casamento)](){:class="underconstruction"} [[2]](#refs){:class="ref"}<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. [Rudi Scherer (1. Casamento)]({% link _pessoas/SchererRudi1941.md %}) [[2]](#refs){:class="ref"}<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3. [Lari(?) Appel (2. Casamento)](){:class="underconstruction"} [[2]](#refs){:class="ref"}<br/>
 
-## Referências:
+## Referências: {#refs} 
 
 [1] Certidão de Casamento (2. Casamento). Disponível em: [https://www.familysearch.org/ark:/61903/3:1:3QS7-89GW-SN1B](https://www.familysearch.org/ark:/61903/3:1:3QS7-89GW-SN1B).<br/>
 

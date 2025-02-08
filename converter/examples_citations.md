@@ -13,3 +13,7 @@
 [XX] Registro de Nascimento de NOME. Registro Civil de Pessoas Naturais - CIDADE, ESTADO, PAIS. Ano ANO. Livro X-X, Folha X, Num. X. Número de Matrícula: XXXXXX. Acervo Pessoal. Entrar em contato.
 
 [5] Registro de Nascimento. Lajeado Livro A-10, Folha 71, Num. 95. Disponível em: [link](link). Acesso em: 27 janeiro 2025.
+
+
+
+[5] Registro de Batismo. Registro de Batismo da Paróquia Evangélica de Conventos, Livro YEAR-YEAR, Página XX, Num. XX. Acervo Pessoal. Disponível em: [https://drive.google.com/file/d/1rL0sy03kB4qHSy8CqyJxmJPMynIb-4YO/view?usp=sharing](https://drive.google.com/file/d/1rL0sy03kB4qHSy8CqyJxmJPMynIb-4YO/view?usp=sharing). Acesso em: 11 de janeiro 2025.

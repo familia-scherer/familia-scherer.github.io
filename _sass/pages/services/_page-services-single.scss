@@ -1,6 +1,6 @@
 .page-services-single {
   .content {
-    > p {
+    >p {
       &:first-of-type {
         font-size: 1.6rem;
         line-height: 1.4;
@@ -20,4 +20,9 @@
 
 .underconstruction {
   opacity: 0.6;
+}
+
+.ref {
+  font-size: x-small;
+  color: gray;
 }

@@ -5,18 +5,18 @@ nome: Norminda Scherer
 layout: pessoa
 ---
 
-**Nascimento:** 21 de agosto de 1911 [1, 2, 4], Lajeado, Rio Grande do Sul, Brasil [1, 2]<br/>
-**Morte:** 03 de janeiro de 1985, Lajeado, Rio Grande do Sul, Brasil [3, 4]<br/>
-**Sepultamento:** Cemitério de Conventos [3, 4]<br/>
-**Nome Casamento:** Norminda Scherer Hagemann [2]<br/>
-**Nome Alternativo:**  Norminda Scherer [1], Norminda Scherer Hagemann [2, 3], Norminda Hagemann [4]<br/>
-**Pais:** [Frederico Jacob Theobaldo Scherer (1885-1948)]({% link _pessoas/SchererFredericoJacobTheobaldo1885.md %}) e [Idalina Renaldina Scherer (1890-1973)]({% link _pessoas/SchererIdalinaRenaldina1890.md %}) [1, 2, 3] <br/>
-**Casamento:** [Albino Alfredo Hagemann (1910-1969)](){:class="underconstruction"},  22 de julho de 1936, Lajeado, Rio Grande do Sul, Brasil [2]<br/>
+**Nascimento:** 21 de agosto de 1911 [[1, 2, 4]](#refs){:class="ref"}, Lajeado, Rio Grande do Sul, Brasil [[1, 2]](#refs){:class="ref"}<br/>
+**Morte:** 03 de janeiro de 1985, Lajeado, Rio Grande do Sul, Brasil [[3, 4]](#refs){:class="ref"}<br/>
+**Sepultamento:** Cemitério de Conventos [[3, 4]](#refs){:class="ref"}<br/>
+**Nome Casamento:** Norminda Scherer Hagemann [[2]](#refs){:class="ref"}<br/>
+**Nome Alternativo:**  Norminda Scherer [[1]](#refs){:class="ref"}, Norminda Scherer Hagemann [[2, 3]](#refs){:class="ref"}, Norminda Hagemann [[4]](#refs){:class="ref"}<br/>
+**Pais:** [Frederico Jacob Theobaldo Scherer (1885-1948)]({% link _pessoas/SchererFredericoJacobTheobaldo1885.md %}) e [Idalina Renaldina Scherer (1890-1973)]({% link _pessoas/SchererIdalinaRenaldina1890.md %}) [[1, 2, 3]](#refs){:class="ref"} <br/>
+**Casamento:** [Albino Alfredo Hagemann (1910-1969)](){:class="underconstruction"},  22 de julho de 1936, Lajeado, Rio Grande do Sul, Brasil [[2]](#refs){:class="ref"}<br/>
 **Filhos:**<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. [Erhard Erno Hagemann](){:class="underconstruction"} [3]<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. [Nelcy Hagemann](){:class="underconstruction"} [3]<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3. [Claci Hagemann](){:class="underconstruction"} [3]<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4. [Ernesto Dorival Hagemann](){:class="underconstruction"} [3]<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. [Erhard Erno Hagemann](){:class="underconstruction"} [[3]](#refs){:class="ref"}<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. [Nelcy Hagemann](){:class="underconstruction"} [[3]](#refs){:class="ref"}<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3. [Claci Hagemann](){:class="underconstruction"} [[3]](#refs){:class="ref"}<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4. [Ernesto Dorival Hagemann](){:class="underconstruction"} [[3]](#refs){:class="ref"}<br/>
 
 ## Vida:
 
@@ -26,7 +26,8 @@ Casou em 22 de julho de 1936 com Albino Alfredo Hagemann em Lajeado (RS). O casa
 
 Norminda faleceu em 03 de janeiro de 1985 em Lajeado (RS). De acordo com sua certidão de óbito, Norminda era residente na Picada Scherer.
 
-## Referências:
+
+## Referências: {#refs}
 
 [1] Registro de Nascimento - Civil. Lajeado Livro A-25, Folha 166v, Num. 613. Disponível em: [https://www.familysearch.org/ark:/61903/3:1:3QS7-89L5-Q4F8?cat=58014&i=2356&cc=3741255](https://www.familysearch.org/ark:/61903/3:1:3QS7-89L5-Q4F8?cat=58014&i=2356&cc=3741255). Acesso em: 27 janeiro 2025.
 

@@ -5,17 +5,17 @@ nome: Deoclecio Egidio Scherer
 layout: pessoa
 ---
 
-**Nascimento:** 21 de setembro de 1944 [1, 2, 4], Conventos, Lajeado, Rio Grande do Sul, Brasil [1]<br/>
-**Morte:** 21 de junho de 2014 [4]<br/>
-**Batismo:** 02 de abril de 1945, Conventos, Lajeado, Rio Grande do Sul, Brasil [1]<br/>
-**Nome Alternativo:** Egidio (apelido), Theoclecio Chidio Scherer [1], Deoclecio Egidio Scherer [2]<br/>
-**Pais:** [Norberto Edgar Scherer (1914-1986)]({% link _pessoas/SchererNorbertoEdgar1914.md %}) e [Elvira Quinot (1914-1993)](){:class="underconstruction"} [1, 2, 3]<br/>
-**Avós Paternos:** [Frederico Jacob Theobaldo Scherer (1885-1948)]({% link _pessoas/SchererFredericoJacobTheobaldo1885.md %}) e [Idalina Renaldina Scherer (1890-1973)]({% link _pessoas/SchererIdalinaRenaldina1890.md %}) [3]<br/>
-**Avós Maternos:** [João Henrique Quinot (1892-1968)](){:class="underconstruction"} e [Leopoldina Mayer (1894-????)](){:class="underconstruction"} [3]<br/>
-**Casamento:** [Nelsi Hofstaetter](){:class="underconstruction"}, 24 de agosto de 1965, Conventos, Lajeado, Rio Grande do Sul, Brasil [2]<br/>
+**Nascimento:** 21 de setembro de 1944 [[1, 2, 4]](#refs){:class="ref"}, Conventos, Lajeado, Rio Grande do Sul, Brasil [[1]](#refs){:class="ref"}<br/>
+**Morte:** 21 de junho de 2014 [[4]](#refs){:class="ref"}<br/>
+**Batismo:** 02 de abril de 1945, Conventos, Lajeado, Rio Grande do Sul, Brasil [[1]](#refs){:class="ref"}<br/>
+**Nome Alternativo:** Egidio (apelido), Theoclecio Chidio Scherer [[1]](#refs){:class="ref"}, Deoclecio Egidio Scherer [[2]](#refs){:class="ref"}<br/>
+**Pais:** [Norberto Edgar Scherer (1914-1986)]({% link _pessoas/SchererNorbertoEdgar1914.md %}) e [Elvira Quinot (1914-1993)](){:class="underconstruction"} [[1, 2, 3]](#refs){:class="ref"}<br/>
+**Avós Paternos:** [Frederico Jacob Theobaldo Scherer (1885-1948)]({% link _pessoas/SchererFredericoJacobTheobaldo1885.md %}) e [Idalina Renaldina Scherer (1890-1973)]({% link _pessoas/SchererIdalinaRenaldina1890.md %}) [[3]](#refs){:class="ref"}<br/>
+**Avós Maternos:** [João Henrique Quinot (1892-1968)](){:class="underconstruction"} e [Leopoldina Mayer (1894-????)](){:class="underconstruction"} [[3]](#refs){:class="ref"}<br/>
+**Casamento:** [Nelsi Hofstaetter](){:class="underconstruction"}, 24 de agosto de 1965, Conventos, Lajeado, Rio Grande do Sul, Brasil [[2]](#refs){:class="ref"}<br/>
 **Filhos:**<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. [Anelise Scherer (1958)](){:class="underconstruction"} [3]<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. [Gilmar Rudimar Scherer (1960)](){:class="underconstruction"} [3]<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. [Anelise Scherer (1958)](){:class="underconstruction"} [[3]](#refs){:class="ref"}<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. [Gilmar Rudimar Scherer (1960)](){:class="underconstruction"} [[3]](#refs){:class="ref"}<br/>
 
 ## Vida:
 Deoclecio Egidio Scherer nasceu dia 21 de setembro de 1944 em Lajeado (RS), filho de Norberto Edgar Scherer (1914-1986) e Elvira Quinot (1914-1993).
@@ -24,7 +24,8 @@ Egidio, como era chamado, casou-se com Nelsi Hofstaetter no dia 24 de agosto de 
 
 Deoclecio Egidio Scherer faleceu no dia 21 de junho de 2014.
 
-## Referências:
+
+## Referências: {#refs}
 
 [1] Registro de Batismo. Paróquia Evangélica de Conventos, Livro 1942-1950, Página 40, Num. 33.  Acervo Pessoal. Disponível em: [https://drive.google.com/file/d/16-Zfv5ry6IV3AgX9WjZcoFfdtaNuLSwX/view?usp=sharing](https://drive.google.com/file/d/16-Zfv5ry6IV3AgX9WjZcoFfdtaNuLSwX/view?usp=sharing). Acesso em: 02 de fevereiro de 2025.
 

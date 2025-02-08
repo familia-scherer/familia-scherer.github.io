@@ -5,12 +5,12 @@ nome: Sally Karina Scherer
 layout: pessoa
 ---
 
-**Nascimento:** 22 de setembro de 1993, Umuarama, Paraná, Brasil [1,2]<br/>
-**Nome Casamento:** Sally Karina Scherer Carletto [2]<br/>
-**Pais:** [César Luis Scherer (1961)]({% link _pessoas/SchererCesarLuis1961.md %}) e [Sônia Roseli Manzke (1961)](){:class="underconstruction"} [1,2]<br/>
-**Casamento:** [Rodrigo Carletto](){:class="underconstruction"},  11 de abril de 2018, Marechal Cândido Rondon, Paraná, Brasil [2]<br/>
+**Nascimento:** 22 de setembro de 1993, Umuarama, Paraná, Brasil [[1,2]](#refs){:class="ref"}<br/>
+**Nome Casamento:** Sally Karina Scherer Carletto [[2]](#refs){:class="ref"}<br/>
+**Pais:** [César Luis Scherer (1961)]({% link _pessoas/SchererCesarLuis1961.md %}) e [Sônia Roseli Manzke (1961)](){:class="underconstruction"} [[1,2]](#refs){:class="ref"}<br/>
+**Casamento:** [Rodrigo Carletto](){:class="underconstruction"},  11 de abril de 2018, Marechal Cândido Rondon, Paraná, Brasil [[2]](#refs){:class="ref"}<br/>
 **Filhos:**<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. [Anaïs Scherer Carletto (2023)](){:class="underconstruction"} [3]<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. [Anaïs Scherer Carletto (2023)](){:class="underconstruction"} [[3]](#refs){:class="ref"}<br/>
 
 ## Vida:
 Sally nasceu em Umuarama, Paraná, Brasil no dia 22 de setembro de 1993, filha de [César Luis Scherer (1961)]({% link _pessoas/SchererCesarLuis1961.md %}) e [Sônia Roseli Manzke (1961)](){:class="underconstruction"}. Durante a infância viveu em Marechal Cândido Rondon, Paraná, Brasil. 
@@ -26,7 +26,8 @@ Em 11 de abril de 2018, Sally e [Rodrigo Carletto](){:class="underconstruction"}
 Atualmente, Sally mora em Marechal Cândido Rondon, Paraná, Brasil, com o marido e a filha.
 
 
-## Referências:
+
+## Referências: {#refs}
 
 [1] Certidão de Nascimento: entrar em contato
 

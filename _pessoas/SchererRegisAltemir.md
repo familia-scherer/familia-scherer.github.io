@@ -10,6 +10,7 @@ layout: pessoa
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. [Nayane Layce Scherer]({% link _pessoas/SchererNayaneLayce.md %})<br/>
 
 
-## Referências:
+
+## Referências: {#refs}
 
 Agradecimento: [Nayane Layce Scherer]({% link _pessoas/SchererNayaneLayce.md %})

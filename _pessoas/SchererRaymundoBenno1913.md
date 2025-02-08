@@ -5,16 +5,16 @@ nome: Raymundo Benno Scherer
 layout: pessoa
 ---
 
-**Nascimento:** 12 de março de 1913, Lajeado, Rio Grande do Sul, Brasil [1]<br/>
-**Morte:** 28 de setembro de 1979, domicílio, Marques de Souza, Rio Grande do Sul, Brasil, infarto do miocardio, 66 anos [3]<br/>
-**Sepultamento:** Cemitério de Marques de Souza [3]<br/>
-**Nome Alternativo:** Raymundo Benno Scherer [1, 4], Reymundo Benno Scherer [2, 3]<br/>
-**Pais:** [Frederico Jacob Theobaldo Scherer (1885-1948)]({% link _pessoas/SchererFredericoJacobTheobaldo1885.md %}) e [Idalina Renaldina Scherer (1890-1973)]({% link _pessoas/SchererIdalinaRenaldina1890.md %}) [1, 2, 3]<br/>
-**Casamento:** [Helga Wasem (1919-????)](){:class="underconstruction"},  16 de janeiro de 1937, Marques de Souza, Rio Grande do Sul, Brasil, 23 anos [2]<br/>
+**Nascimento:** 12 de março de 1913, Lajeado, Rio Grande do Sul, Brasil [[1]](#refs){:class="ref"}<br/>
+**Morte:** 28 de setembro de 1979, domicílio, Marques de Souza, Rio Grande do Sul, Brasil, infarto do miocardio, 66 anos [[3]](#refs){:class="ref"}<br/>
+**Sepultamento:** Cemitério de Marques de Souza [[3]](#refs){:class="ref"}<br/>
+**Nome Alternativo:** Raymundo Benno Scherer [[1, 4]](#refs){:class="ref"}, Reymundo Benno Scherer [[2, 3]](#refs){:class="ref"}<br/>
+**Pais:** [Frederico Jacob Theobaldo Scherer (1885-1948)]({% link _pessoas/SchererFredericoJacobTheobaldo1885.md %}) e [Idalina Renaldina Scherer (1890-1973)]({% link _pessoas/SchererIdalinaRenaldina1890.md %}) [[1, 2, 3]](#refs){:class="ref"}<br/>
+**Casamento:** [Helga Wasem (1919-????)](){:class="underconstruction"},  16 de janeiro de 1937, Marques de Souza, Rio Grande do Sul, Brasil, 23 anos [[2]](#refs){:class="ref"}<br/>
 **Filhos:**<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. [Lotário Gastão Scherer](){:class="underconstruction"} [3]<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. [Létio Eleceu Scherer (1952-1977)](){:class="underconstruction"} [4]<br/>
-**Profissão:** carpinteiro (1937) [2], agricultor (1977, 1979) [3, 4]<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. [Lotário Gastão Scherer](){:class="underconstruction"} [[3]](#refs){:class="ref"}<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. [Létio Eleceu Scherer (1952-1977)](){:class="underconstruction"} [[4]](#refs){:class="ref"}<br/>
+**Profissão:** carpinteiro (1937) [[2]](#refs){:class="ref"}, agricultor (1977, 1979) [[3, 4]](#refs){:class="ref"}<br/>
 <br/>
 ## Vida:
 
@@ -28,7 +28,8 @@ Raymundo Benno Scherer faleceu em domicílio em Marques de Souza (RS) no dia 28 
 
 <br/>
 
-## Referências:
+
+## Referências: {#refs}
 
 [1] Registro de Nascimento - Civil. Lajeado Livro A-28, Folha 43, Num. 224. Disponível em: [https://www.familysearch.org/ark:/61903/3:1:3QS7-89L5-39MX-T?cat=58014](https://www.https://www.familysearch.org/ark:/61903/3:1:3QS7-89L5-39MX-T?cat=58014). Acesso em: 28 janeiro 2025.
 
