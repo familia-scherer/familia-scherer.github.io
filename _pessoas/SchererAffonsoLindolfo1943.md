@@ -21,7 +21,7 @@ layout: pessoa
 
 ## Vida:
 
-Affonso Lindolfo Scherer, também chamado de Lindolfo, nasceu dia 30 de junho de 1943 em Marques de Souza, Rio Grande do Sul, Brasil filho de [Norberto Edgar Scherer]({% link _pessoas/SchererNorbertoEdgar1914.md %}) e [Elvira Quinot](){:class="underconstruction"}
+Affonso Lindolfo Scherer, também chamado de Lindolfo, nasceu dia 30 de junho de 1943 em Marques de Souza, Rio Grande do Sul, Brasil filho de [Norberto Edgar Scherer]({% link _pessoas/SchererNorbertoEdgar1914.md %}) e [Elvira Quinot](){:class="underconstruction"}.
 
 Em 13 de fevereiro de 1965, casou-se com [Nelcy Prass](){:class="underconstruction"} em Lajeado, Rio Grande do Sul, Brasil.
 
