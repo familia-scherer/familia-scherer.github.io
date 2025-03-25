@@ -6,8 +6,9 @@ layout: pessoa
 ---
 
 **Nascimento:** 05 de fevereiro de 1946, domicilio, Conventos, Lajeado, Rio Grande do Sul, Brasil [[1]](#refs){:class="ref"}<br/>
-**Nome Alternativo:** Rudi Cláudio Scherer [[1, 2]](#refs){:class="ref"}<br/>
-**Pais:** [Norberto Edgar Scherer (1914-1986)]({% link _pessoas/SchererNorbertoEdgar1914.md %}) e [Elvira Quinot (1914-1993)](){:class="underconstruction"} [[1, 2]](#refs){:class="ref"}<br/>
+**Batismo:** 09 de junho de 1946 [[4]](#refs){:class="ref"}<br/>
+**Nome Alternativo:** Rudi Cláudio Scherer [[1][2]](#refs){:class="ref"}, Claudio Rudi Scherer [[4]](#refs){:class="ref"}<br/>
+**Pais:** [Norberto Edgar Scherer (1914-1986)]({% link _pessoas/SchererNorbertoEdgar1914.md %}) e [Elvira Quinot (1914-1993)](){:class="underconstruction"} [[1][2][4]](#refs){:class="ref"}<br/>
 **Avós Paternos:** [Frederico Jacob Theobaldo Scherer (1885-1948)]({% link _pessoas/SchererFredericoJacobTheobaldo1885.md %}) e [Idalina Renaldina Scherer (1890-1973)]({% link _pessoas/SchererIdalinaRenaldina1890.md %}) [[1]](#refs){:class="ref"}<br/>
 **Avós Maternos:** [João Henrique Quinot (1892-1968)](){:class="underconstruction"} e [Leopoldina Mayer (1894-????)](){:class="underconstruction"} [[1]](#refs){:class="ref"}<br/>
 **Casamento:** [Gládis Maria Haas (1946)](){:class="underconstruction"}, 17 de setembro de 1966, Lajeado, Rio Grande do Sul, Brasil [[2]](#refs){:class="ref"}<br/>
@@ -41,5 +42,7 @@ Atualmente, Rudi e Maria continuam morando em Lajeado (RS).
 [2] Registro de Casamento. Registro Civíl de Pessoas Naturais - Lajeado, Rio Grande do Sul, Brasil. Ano 2023. Livro B-21, Folha 263v, Num. 2859. Acervo Pessoal. Entrar em contato.
 
 [3] RICHTER, Waldemar L. Família Quinot: História e genealogia de imigrantes alemães homenageados com nomes de ruas em Forquetinha. Vol. 17. ISBN 978-65-5974-209-7. Página 272.
+
+[4] Registro de Batismo. Paróquia Evangélica de Conventos - Moinho, Livro 1942-1950, Página 54, Num. 39.  Acervo Pessoal. Disponível em: [https://drive.google.com/file/d/18lCoTHJyY0-Xx0ek6gYc4X_JGAvH17ZQ/view?usp=sharing](https://drive.google.com/file/d/18lCoTHJyY0-Xx0ek6gYc4X_JGAvH17ZQ/view?usp=sharing). Acesso em: 08 de fevereiro de 2025.
 
 Agradecimento: [Rudi Cláudio Scherer]({% link _pessoas/SchererRudiCláudio1946.md %})

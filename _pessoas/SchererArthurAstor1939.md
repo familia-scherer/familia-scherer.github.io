@@ -5,11 +5,12 @@ nome: Arthur Astor Scherer
 layout: pessoa
 ---
 
-**Nascimento:** 19 de outubro de 1939, Lajeado, Rio Grande do Sul, Brasil [[1, 2, 4]](#refs){:class="ref"}<br/>
+**Nascimento:** 19 de outubro de 1939, Lajeado, Rio Grande do Sul, Brasil [[1][2][4][5]](#refs){:class="ref"}<br/>
 **Morte:** 13 de janeiro de 2022, Marechal Cândido Rondon, Paraná, Brasil [[4]](#refs){:class="ref"}<br/>
 **Sepultamento:** Cemitério Municipal de Marechal Cândido Rondon [[4]](#refs){:class="ref"}<br/>
-**Nome Alternativo:** Astor<br/>
-**Pais:** [Norberto Edgar Scherer (1914-1986)]({% link _pessoas/SchererNorbertoEdgar1914.md %}) e [Elvira Quinot (1914-1993)](){:class="underconstruction"} [[1, 2, 4]](#refs){:class="ref"}<br/>
+**Batismo:** 25 de dezembro de 1939 [[5]](#refs){:class="ref"}<br/>
+**Nome Alternativo:** Astor, Arthur Astor Scherer [[1][2][3][4][5]](#refs){:class="ref"}<br/>
+**Pais:** [Norberto Edgar Scherer (1914-1986)]({% link _pessoas/SchererNorbertoEdgar1914.md %}) e [Elvira Quinot (1914-1993)](){:class="underconstruction"} [[1][2][4][5]](#refs){:class="ref"}<br/>
 **Avós Paternos:** [Frederico Jacob Theobaldo Scherer (1885-1948)]({% link _pessoas/SchererFredericoJacobTheobaldo1885.md %}) e [Idalina Renaldina Scherer (1890-1973)]({% link _pessoas/SchererIdalinaRenaldina1890.md %}) [[1]](#refs){:class="ref"}<br/>
 **Avós Maternos:** [João Henrique Quinot (1892-1968)](){:class="underconstruction"} e [Leopoldina Mayer (1894-????)](){:class="underconstruction"} [[1]](#refs){:class="ref"}<br/>
 **Casamento:** [Araci Eckhardt (1941-2000)](){:class="underconstruction"}, 20 de agosto de 1960, Lajeado, Rio Grande do Sul, Brasil [[4]](#refs){:class="ref"}<br/>
@@ -36,7 +37,8 @@ Em 20 de agosto de 1960, ele se casou com [Araci Eckhardt](){:class="underconstr
 <figcaption class="figure-caption">Arthur e Araci</figcaption>
 </figure>
 
-Em 24 de julho de 1964, com 24 anos, mudou-se para Santa Helena, PR, Brasil com a esposa [Araci Eckhardt](){:class="underconstruction"}, seu primeiro filho [César Luis Scherer]({% link _pessoas/SchererCesarLuis1961.md %}) e a família da irmã [Nair Scheuermann (Scherer)](){:class="underconstruction"}. Em Santa Helena, ele trabalhou como agricultor e também construiu uma olaria.
+Em 24 de julho de 1964, com 24 anos, mudou-se para Santa Helena, PR, Brasil com a esposa [Araci Eckhardt](){:class="underconstruction"}, seu primeiro filho [César Luis Scherer]({% link _pessoas/SchererCesarLuis1961.md %}) e a família da irmã [Nair Scherer]({% link _pessoas/SchererNair1942.md %}). Em Santa Helena, ele trabalhou como agricultor e também construiu uma olaria.
+
 
 <figure>
 <img src="https://drive.google.com/thumbnail?id=1bEAmUbZoBYXeEzuWEgXHcSNWXM8Lvu11&sz=w1000" width="50%">
@@ -45,7 +47,7 @@ Em 24 de julho de 1964, com 24 anos, mudou-se para Santa Helena, PR, Brasil com 
 
 Em agosto de 1989, com 49 anos, mudou-se para Marechal Cândido Rondon, PR, Brasil. Algum tempo após o falecimento de [Araci Eckhardt](){:class="underconstruction"} em 2000, Arthur se juntou com [Maria Soutes](){:class="underconstruction"}.
 
-Arthur Astor Scherer faleceu em 13 de janeiro de 2022 em Marechal Cândido Rondon. Esse site é dedicado a ele.
+Arthur Astor Scherer faleceu em 13 de janeiro de 2022 em Marechal Cândido Rondon (PR). Esse site é dedicado a ele.
 
 ## Referências: {#refs} 
 
@@ -56,3 +58,5 @@ Arthur Astor Scherer faleceu em 13 de janeiro de 2022 em Marechal Cândido Rondo
 [3] Declaração do Exército. Disponível em: [https://drive.google.com/file/d/1ZydHDyx5vVUTCOs4R9D1z9Fi5R1DYd-S/view?usp=sharing](https://drive.google.com/file/d/1ZydHDyx5vVUTCOs4R9D1z9Fi5R1DYd-S/view?usp=sharing) . Acesso em: 30 maio 2021.
 
 [4] Certidão de Óbito de Arthur Astor Scherer. Registro Civil de Pessoas Naturais - Marechal Cândido Rondon, Paraná, Brasil. Ano 2022. Livro C-26, Folha 286, Termo 9961. Número de Matrícula: 0817290155 2022 4 00026 286 0009961 11. Disponível em: entrar em contato.
+
+[5] Registro de Batismo. Paróquia Evangélica de Conventos - Moinho, Livro 1937-1941, Página 14, Num. 47.  Acervo Pessoal. Disponível em: [https://drive.google.com/file/d/1140SqEDpnVtTV_IF_eFN79EW9eh8_SqZ/view?usp=sharing](https://drive.google.com/file/d/1140SqEDpnVtTV_IF_eFN79EW9eh8_SqZ/view?usp=sharing). Acesso em: 08 de fevereiro de 2025.
