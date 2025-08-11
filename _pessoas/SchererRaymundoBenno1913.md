@@ -13,16 +13,16 @@ layout: pessoa
 **Casamento:** [Helga Wasem (1919-????)](){:class="underconstruction"},  16 de janeiro de 1937, Marques de Souza, Rio Grande do Sul, Brasil, 23 anos [[2]](#refs){:class="ref"}<br/>
 **Filhos:**<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. [Lotário Gastão Scherer](){:class="underconstruction"} [[3]](#refs){:class="ref"}<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. [Létio Eleceu Scherer (1952-1977)](){:class="underconstruction"} [[4]](#refs){:class="ref"}<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. [Létio Eleceu Scherer (1952-1977)]({% link _pessoas/SchererLétioEleceu1952.md %}) [[4]](#refs){:class="ref"}<br/>
 **Profissão:** carpinteiro (1937) [[2]](#refs){:class="ref"}, agricultor (1977, 1979) [[3, 4]](#refs){:class="ref"}<br/>
 <br/>
 ## Vida:
 
 Raymundo Benno Scherer nasceu em 12 de março de 1913 em Lajeado (RS), segundo filho de [Frederico Jacob Theobaldo Scherer]({% link _pessoas/SchererFredericoJacobTheobaldo1885.md %}) e [Idalina Renaldina Scherer]({% link _pessoas/SchererIdalinaRenaldina1890.md %}).
 
-Benno, como era chamado, casou-se com 23 anos com [Helga Wasem (1919-????)](){:class="underconstruction"} no dia 6 de janeiro de 1937 em Marques de Souza (RS). O casal teve dois filhos: [Lotário Gastão](){:class="underconstruction"} e [Létio Eleceu](){:class="underconstruction"}.
+Benno, como era chamado, casou-se com 23 anos com [Helga Wasem (1919-????)](){:class="underconstruction"} no dia 6 de janeiro de 1937 em Marques de Souza (RS). O casal teve dois filhos: [Lotário Gastão](){:class="underconstruction"} e [Létio Eleceu]({% link _pessoas/SchererLétioEleceu1952.md %}).
 
-Viveu toda a sua vida adulta em Marques de Souza (RS). [Létio Eleceu Scherer](){:class="underconstruction"}, seu filho, faleceu em 1977 aos 25 anos.
+Viveu toda a sua vida adulta em Marques de Souza (RS). [Létio Eleceu Scherer]({% link _pessoas/SchererLétioEleceu1952.md %}), seu filho, faleceu em 1977 aos 25 anos.
 
 Raymundo Benno Scherer faleceu em domicílio em Marques de Souza (RS) no dia 28 de setembro de 1979, aos 66 anos, deixando a esposa e um filho.
 

@@ -8,9 +8,9 @@ layout: pessoa
 **Morte:** 20 de novembro de 1917, Schererseck, Lajeado, RS, Brasil<br/>
 **Nome Alternativo:** Pedro Scherer<br/>
 **Pais:** [Johann Jacob Scherer (1805-1881)]({% link _pessoas/SchererJohannJacob1805.md %}), [Catharina Grüb](){:class="underconstruction"}<br/>
-**Casamento:** [Elisabetha Schneider](){:class="underconstruction"}, 1865<br/>
+**Casamento:** [Elisabetha Schneider (1847-1915)](){:class="underconstruction"}, 1865<br/>
 **12 Filhos:** <br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1. [Cristiano Frederico Scherer (1868-1945)](){:class="underconstruction"} [[1]](#refs){:class="ref"}<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1. [Cristiano Frederico Scherer (1868-1945)]({% link _pessoas/SchererChristianoFrederico1868.md %}) [[1]](#refs){:class="ref"}<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2. [Elisabetha Carlota Scherer (1870-?)](){:class="underconstruction"} [[1]](#refs){:class="ref"}<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3. [Pedro Jacob Scherer (1872-1931)](){:class="underconstruction"} [[1]](#refs){:class="ref"}<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 4. [Adolfo Scherer (1874-?)](){:class="underconstruction"} [[1]](#refs){:class="ref"}<br/>

@@ -12,13 +12,14 @@ layout: pessoa
 **Pais:** [Frederico Jacob Theobaldo Scherer (1885-1948)]({% link _pessoas/SchererFredericoJacobTheobaldo1885.md %}) e [Idalina Renaldina Scherer (1890-1973)]({% link _pessoas/SchererIdalinaRenaldina1890.md %}) [[1, 2, 3]](#refs){:class="ref"}<br/>
 **Casamento:** [Julita Storck (1919-2009)](){:class="underconstruction"}, 22 de julho de 1942, Lajeado, Rio Grande do Sul, Brasil, 22 anos [[2]](#refs){:class="ref"}<br/>
 **Filhos:**<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. [Silverio Gastão Scherer](){:class="underconstruction"}<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. [Silverio Gastão Scherer (1943-????)]({% link _pessoas/SchererSilverioGastão1943.md %})<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. [Beda Silvia Scherer (1945)]({% link _pessoas/SchererBedaSilvia1945.md %})<br/>
 **Profissão:** agricultor ([César Scherer]({% link _pessoas/SchererCesarLuis1961.md %})), aposentado [[3]](#refs){:class="ref"}<br/>
 
 ## Vida:
 Arnoldo Alfredo Scherer nasceu no dia 12 de fevereiro de 1920 em Lajeado (RS), quinto filho de [Frederico Jacob Theobaldo Scherer]({% link _pessoas/SchererFredericoJacobTheobaldo1885.md %}) e [Idalina Renaldina Scherer]({% link _pessoas/SchererIdalinaRenaldina1890.md %}).
 
-Alfred(o), como era chamado, casou-se ao 22 anos, com  [Julita Storck (1919-2009)](){:class="underconstruction"}, no dia 22 de julho de 1942 em Lajeado (RS). O casal teve pelo menos um filho: [Silverio Gastão](){:class="underconstruction"}.
+Alfred(o), como era chamado, casou-se ao 22 anos, com  [Julita Storck (1919-2009)](){:class="underconstruction"}, no dia 22 de julho de 1942 em Lajeado (RS). O casal teve pelo menos dois filho: [Silverio Gastão]({% link _pessoas/SchererSilverioGastão1943.md %}) e [Beda Silvia]({% link _pessoas/SchererBedaSilvia1945.md %}).
 
 Durante sua vida, residiu em Conventos, Lajeado (RS).
 

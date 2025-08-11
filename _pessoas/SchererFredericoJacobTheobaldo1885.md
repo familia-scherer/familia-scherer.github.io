@@ -8,7 +8,7 @@ layout: pessoa
 **Nascimento:** 8 de dezembro de 1885, Lajeado, Rio Grande do Sul, Brasil [[2]](#refs){:class="ref"}<br/>
 **Morte:** 25 de dezembro de 1948, Lajeado, Rio Grande do Sul, Brasil [[2]](#refs){:class="ref"}<br/>
 **Nome Alternativo:** Jakob Scherer<br/>
-**Pais:** [Pedro Scherer (1841-1917)]({% link _pessoas/SchererPeter1841.md %}) e [Elisabetha Schneider](){:class="underconstruction"} [[1]](#refs){:class="ref"}[[2]](#refs){:class="ref"}<br/>
+**Pais:** [Pedro Scherer (1841-1917)]({% link _pessoas/SchererPeter1841.md %}) e [Elisabetha Schneider (1847-1915)](){:class="underconstruction"} [[1]](#refs){:class="ref"}[[2]](#refs){:class="ref"}<br/>
 **Casamento:** [Idalina Renaldina Scherer]({% link _pessoas/SchererIdalinaRenaldina1890.md %}) , 5 de outubro de 1910, Lajeado, Rio Grande do Sul, Brasil [[1]](#refs){:class="ref"}<br/>
 **Profissão:** Agricultor<br/>
 **Filhos:** <br/>

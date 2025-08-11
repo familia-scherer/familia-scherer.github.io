@@ -14,7 +14,7 @@ layout: pessoa
 **Filhos:** <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1. [Alcirio Silvério Scherer (1938)]({% link _pessoas/SchererAlcírioSilvério1938.md %}) [[2]](#refs){:class="ref"}<br/> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2. [Arthur Astor Scherer (1939-2022)]({% link _pessoas/SchererArthurAstor1939.md %}) [[2]](#refs){:class="ref"}<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3. [Glacy Scherer (1940 - ????)]({% link _pessoas/SchererGlacy1940.md %}) [[2]](#refs){:class="ref"}<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3. [Glaci Scherer (1940-2019)]({% link _pessoas/SchererGlacy1940.md %}) [[2]](#refs){:class="ref"}<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 4. [Nair Scherer (1942)]({% link _pessoas/SchererNair1942.md %}) [[2]](#refs){:class="ref"}<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 5. [Affonso Lindolfo Scherer (1943-2018)]({% link _pessoas/SchererAffonsoLindolfo1943.md %}) [[2]](#refs){:class="ref"}<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 6. [Deoclecio Egidio Scherer (1944-2014)]({% link _pessoas/SchererDeoclecioEgidio1944.md %}) [[2]](#refs){:class="ref"}<br/>
@@ -22,7 +22,7 @@ layout: pessoa
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 8. [Hildo Irio Scherer (1947-2024)]({% link _pessoas/SchererHildoIrio1947.md %}) [[2]](#refs){:class="ref"}<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 9. [Nelsi Scherer (1949)]({% link _pessoas/SchererNelsi1949.md %}) [[2]](#refs){:class="ref"}<br/>
 
-
+ 
 
 
 ## Vida:
@@ -42,7 +42,7 @@ Norberto Edgar Scherer se casou com [Elvira Quinot (1914-1993)](){:class="underc
 
 Durante sua vida, Norberto Edgar, também chamado de Edgar, construiu uma olaria ao lado de sua casa, onde trabalhava com sua família.
 
-De acordo com a certidão de óbito [[3]](#refs){:class="ref"}, Norberto Edgar Scherer faleceu dia 28 de dezembro de 1986 às 7 horas em domicílio, em Barra da Forquetinha (Conventos, Lajeado - RS) com causa da morte infarto do miocárdio com  72 anos de idade. Ele era aposentado, branco e residente em Barra da Forquetinha, Lajeado. Ele era filho de [Jacob Theobaldo Scherer]({% link _pessoas/SchererFredericoJacobTheobaldo1885.md %}) e [Idalina Renaldina Scherer]({% link _pessoas/SchererIdalinaRenaldina1890.md %}), já falecidos. Ele foi casado com [Elvira Scherer](){:class="underconstruction"}, de cujo matrimônio deixou os filhos: [Alcirio Silvério]({% link _pessoas/SchererAlcírioSilvério1938.md %}), [Arthur Astor]({% link _pessoas/SchererArthurAstor1939.md %}), [Glacy]({% link _pessoas/SchererGlacy1940.md %}), [Nair]({% link _pessoas/SchererNair1942.md %}) , [Affonso Lindolfo]({% link _pessoas/SchererAffonsoLindolfo1943.md %}), [Deoclécio Egídio]({% link _pessoas/SchererDeoclecioEgidio1944.md %}), [Rudi Claudio]({% link _pessoas/SchererRudiCláudio1946.md %}), [Hildo Irio]({% link _pessoas/SchererHildoIrio1947.md %}) e [Nelsi]({% link _pessoas/SchererNelsi1949.md %}). O sepultamento foi realizado no Cemitério Evangélico Conventos.
+De acordo com a certidão de óbito [[3]](#refs){:class="ref"}, Norberto Edgar Scherer faleceu dia 28 de dezembro de 1986 às 7 horas em domicílio, em Barra da Forquetinha (Conventos, Lajeado - RS) com causa da morte infarto do miocárdio com  72 anos de idade. Ele era aposentado, branco e residente em Barra da Forquetinha, Lajeado. Ele era filho de [Jacob Theobaldo Scherer]({% link _pessoas/SchererFredericoJacobTheobaldo1885.md %}) e [Idalina Renaldina Scherer]({% link _pessoas/SchererIdalinaRenaldina1890.md %}), já falecidos. Ele foi casado com [Elvira Scherer](){:class="underconstruction"}, de cujo matrimônio deixou os filhos: [Alcirio Silvério]({% link _pessoas/SchererAlcírioSilvério1938.md %}), [Arthur Astor]({% link _pessoas/SchererArthurAstor1939.md %}), [Glaci]({% link _pessoas/SchererGlacy1940.md %}), [Nair]({% link _pessoas/SchererNair1942.md %}) , [Affonso Lindolfo]({% link _pessoas/SchererAffonsoLindolfo1943.md %}), [Deoclécio Egídio]({% link _pessoas/SchererDeoclecioEgidio1944.md %}), [Rudi Claudio]({% link _pessoas/SchererRudiCláudio1946.md %}), [Hildo Irio]({% link _pessoas/SchererHildoIrio1947.md %}) e [Nelsi]({% link _pessoas/SchererNelsi1949.md %}). O sepultamento foi realizado no Cemitério Evangélico Conventos.
 
 <figure>
 <img src="https://drive.google.com/thumbnail?id=1AkF5NRZONpabS5bwPy3c9v-NbzjEmJQh&sz=w1000" width="70%">

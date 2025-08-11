@@ -5,18 +5,19 @@ nome: Norminda Scherer
 layout: pessoa
 ---
 
-**Nascimento:** 21 de agosto de 1911 [[1, 2, 4]](#refs){:class="ref"}, Lajeado, Rio Grande do Sul, Brasil [[1, 2]](#refs){:class="ref"}<br/>
-**Morte:** 03 de janeiro de 1985, Lajeado, Rio Grande do Sul, Brasil [[3, 4]](#refs){:class="ref"}<br/>
-**Sepultamento:** Cemitério de Conventos [[3, 4]](#refs){:class="ref"}<br/>
+**Nascimento:** 21 de agosto de 1911 [[1]](#refs){:class="ref"}[[2]](#refs){:class="ref"}[[4]](#refs){:class="ref"}, Lajeado, Rio Grande do Sul, Brasil [[1]](#refs){:class="ref"}[[2]](#refs){:class="ref"}<br/>
+**Morte:** 03 de janeiro de 1985, Lajeado, Rio Grande do Sul, Brasil [[3]](#refs){:class="ref"}[[4]](#refs){:class="ref"}<br/>
+**Sepultamento:** Cemitério de Conventos [[3]](#refs){:class="ref"}[[4]](#refs){:class="ref"}<br/>
 **Nome Casamento:** Norminda Scherer Hagemann [[2]](#refs){:class="ref"}<br/>
-**Nome Alternativo:**  Norminda Scherer [[1]](#refs){:class="ref"}, Norminda Scherer Hagemann [[2, 3]](#refs){:class="ref"}, Norminda Hagemann [[4]](#refs){:class="ref"}<br/>
-**Pais:** [Frederico Jacob Theobaldo Scherer (1885-1948)]({% link _pessoas/SchererFredericoJacobTheobaldo1885.md %}) e [Idalina Renaldina Scherer (1890-1973)]({% link _pessoas/SchererIdalinaRenaldina1890.md %}) [[1, 2, 3]](#refs){:class="ref"} <br/>
+**Nome Alternativo:**  Norminda Scherer [[1]](#refs){:class="ref"}, Norminda Scherer Hagemann [[2]](#refs){:class="ref"}[[3]](#refs){:class="ref"}, Norminda Hagemann [[4]](#refs){:class="ref"}<br/>
+**Pais:** [Frederico Jacob Theobaldo Scherer (1885-1948)]({% link _pessoas/SchererFredericoJacobTheobaldo1885.md %}) e [Idalina Renaldina Scherer (1890-1973)]({% link _pessoas/SchererIdalinaRenaldina1890.md %}) [[1]](#refs){:class="ref"}[[2]](#refs){:class="ref"}[[3]](#refs){:class="ref"} <br/>
 **Casamento:** [Albino Alfredo Hagemann (1910-1969)](){:class="underconstruction"},  22 de julho de 1936, Lajeado, Rio Grande do Sul, Brasil [[2]](#refs){:class="ref"}<br/>
 **Filhos:**<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. [Erhard Erno Hagemann](){:class="underconstruction"} [[3]](#refs){:class="ref"}<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. [Nelcy Hagemann](){:class="underconstruction"} [[3]](#refs){:class="ref"}<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3. [Claci Hagemann](){:class="underconstruction"} [[3]](#refs){:class="ref"}<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4. [Ernesto Dorival Hagemann](){:class="underconstruction"} [[3]](#refs){:class="ref"}<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. [Erhard Erno Hagemann (1938-2016)]({% link _pessoas/HagemannErhardErno1938.md %}) [[3]](#refs){:class="ref"}<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. [Nelcy Hagemann (1938)]({% link _pessoas/HagemannNelcy1938.md %}) [[3]](#refs){:class="ref"}<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3. [Claci Hagemann (1944)]({% link _pessoas/HagemannClaci1944.md %}) [[3]](#refs){:class="ref"}<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4. [Ernesto Dorival Hagemann (1942-????)]({% link _pessoas/HagemannErnestoDorival1942.md %}) [[3]](#refs){:class="ref"}<br/>
+
 
 ## Vida:
 

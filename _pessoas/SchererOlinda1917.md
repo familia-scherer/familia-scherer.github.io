@@ -11,17 +11,19 @@ layout: pessoa
 **Nome Casamento:** Olinda Scherer Gauer [[2]](#refs){:class="ref"}<br/>
 **Nome Alternativo:** Olinda Scherer [[1, 2]](#refs){:class="ref"}, Olinda Scherer Gauer [[2, 3]](#refs){:class="ref"}<br/>
 **Pais:** [Frederico Jacob Theobaldo Scherer (1885-1948)]({% link _pessoas/SchererFredericoJacobTheobaldo1885.md %}) e [Idalina Renaldina Scherer (1890-1973)]({% link _pessoas/SchererIdalinaRenaldina1890.md %}) [[1, 2, 3]](#refs){:class="ref"}<br/>
+**Avós Paternos:** [Pedro Scherer (1841-1917)]({% link _pessoas/SchererPeter1841.md %}) e [Elisabetha Schneider](){:class="underconstruction"} [[1]](#refs){:class="ref"}<br/>
+**Avós Maternos:** [Guilherme Scherer (1865-1922)]({% link _pessoas/SchererGuilherme1865.md %}) e [Catharina Luiza Herrmann (1864-1935)](){:class="underconstruction"} [[1]](#refs){:class="ref"}<br/>
 **Casamento:** [Alfredo Lauro Gauer (1918-1996)](){:class="underconstruction"}, 21 de junho de 1944, Lajeado, Rio Grande do Sul, Brasil [[2]](#refs){:class="ref"}<br/>
 **Filhos:**<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. [Olavo Gauer (1950-1994)](){:class="underconstruction"} [[3]](#refs){:class="ref"}<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. [Olavo Gauer (1950-1994)]({% link _pessoas/GauerOlavo1950.md %}) [[3]](#refs){:class="ref"}<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. [Ademar Gauer](){:class="underconstruction"} [[3]](#refs){:class="ref"}<br/>
-**Profissão:** domestica [[2, 3]](#refs){:class="ref"}<br/>
+**Profissão:** doméstica [[2, 3]](#refs){:class="ref"}<br/>
 
 ## Vida:
 
 Olinda Scherer nasceu dia 16 de fevereiro de 1917 em Lajeado (RS), quarta filha de [Frederico Jacob Theobaldo Scherer]({% link _pessoas/SchererFredericoJacobTheobaldo1885.md %}) e [Idalina Renaldina Scherer]({% link _pessoas/SchererIdalinaRenaldina1890.md %}).
 
-Casou em 21 de junho de 1944 com [Alfredo Lauro Gauer](){:class="underconstruction"} em Lajeado (RS) com 27 anos. No seu registro de casamento, consta que morava no bairro Conventos em em Lajeado (RS). O casal teve dois filhos: [Olavo](){:class="underconstruction"} e [Ademar](){:class="underconstruction"}.
+Casou em 21 de junho de 1944 com [Alfredo Lauro Gauer](){:class="underconstruction"} em Lajeado (RS) com 27 anos. No seu registro de casamento, consta que morava no bairro Conventos em em Lajeado (RS). O casal teve dois filhos: [Olavo]({% link _pessoas/GauerOlavo1950.md %}) e [Ademar](){:class="underconstruction"}.
 
 Olinda faleceu no dia 06 de julho de 1984 no Hospital Bruno Born em Lajeado (RS) com 67 anos, deixando o marido e dois filhos. Na época residia em Marques de Souza (RS).
 
